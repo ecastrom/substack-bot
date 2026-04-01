@@ -248,11 +248,7 @@ def _publish(chat_id: str, draft: dict):
     bot.send_message(chat_id, "Posting to Substack...")
     try:
         cfg = load_substack_config()
-        client = SubstackClient(
-            email=cfg.email,
-            password=cfg.password,
-            publication_url=cfg.publication_url,
-        )
+        client = SubstackClient(session_cookie=cfg.session_cookie)
         result = client.post_note(draft["content"])
         conversations.pop(chat_id, None)
         bot.send_message(chat_id, f"Posted to Substack Notes ✓\n\n{draft['content']}", parse_mode=None)

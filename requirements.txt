@@ -4,3 +4,4 @@ python-dotenv>=1.0.0
 flask>=3.0.0
 pyTelegramBotAPI>=4.20.0
 gunicorn>=21.0.0
+curl_cffi>=0.14.0

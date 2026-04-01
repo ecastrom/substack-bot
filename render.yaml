@@ -11,9 +11,5 @@ services:
         sync: false
       - key: ANTHROPIC_API_KEY
         sync: false
-      - key: SUBSTACK_EMAIL
-        sync: false
-      - key: SUBSTACK_PASSWORD
-        sync: false
-      - key: SUBSTACK_PUBLICATION_URL
+      - key: SUBSTACK_SESSION_COOKIE
         sync: false

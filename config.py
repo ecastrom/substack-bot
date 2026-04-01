@@ -8,16 +8,12 @@ from dataclasses import dataclass
 
 @dataclass
 class SubstackConfig:
-    email: str
-    password: str
-    publication_url: str  # e.g. "edgarcastro.substack.com"
+    session_cookie: str  # substack.sid cookie value
 
 
 def load_substack_config() -> SubstackConfig:
     return SubstackConfig(
-        email=os.environ["SUBSTACK_EMAIL"],
-        password=os.environ["SUBSTACK_PASSWORD"],
-        publication_url=os.environ.get("SUBSTACK_PUBLICATION_URL", ""),
+        session_cookie=os.environ["SUBSTACK_SESSION_COOKIE"],
     )
 
 
