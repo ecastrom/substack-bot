@@ -1,7 +1,5 @@
 # My Favorite Coworker Complains a Lot
 
-**Why the person who names the problem out loud is doing unpaid public work — and why teams without one are quietly in trouble.**
-
 My favorite coworker complains a lot.
 
 I have been working in Mexico for the last six months. Before that, I spent a long stay at George Mason University's Korea campus, where my working life was, in many ways, a solitary one. One of the things I most looked forward to on arriving here was the simplest thing I had been missing: company at lunch. A table, an hour, and a conversation that could drift from economics to politics to the small daily frictions of being expats somewhere you are still learning to live. It turns out that for an economist, this is not just pleasant. It is how a lot of the real thinking actually gets done.
