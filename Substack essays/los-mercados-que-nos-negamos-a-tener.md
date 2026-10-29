@@ -88,6 +88,8 @@ Roth recordaba que durante siglos cobrar intereses pareció tan repugnante como 
 
 Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que la gente cambia de opinión cuando conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los órganos con los que empezó este ensayo son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
+La discusión de fondo es filosófica. Qué cosas pueden comprarse y cuáles no, qué le debemos a quien quiere formar una familia y a quien está dispuesta a ayudarla, qué significa tratar a una persona con dignidad: son preguntas sobre la clase de sociedad que queremos ser, y la economía no las resuelve. Lo que la economía puede hacer es poner sobre la mesa lo que cada respuesta cuesta y quién lo paga, para que la decisión se tome sabiéndolo.
+
 Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y a nadie se le ocurriría llamar a eso explotación. A las personas de las que habla este ensayo les prohibimos algo parecido.
 
 Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos cuesta no tenerlos.
