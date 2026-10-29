@@ -4,6 +4,17 @@ Human-readable log of work on the Substack essays project.
 
 ---
 
+## Session 6 — 2026-10-29
+
+### Essay: "Los mercados que nos negamos a tener" (file: `Substack essays/los-mercados-que-nos-negamos-a-tener.md`)
+
+1. Saved Edgar's Spanish draft on repugnant markets and surrogacy (~1,900 words) as a new essay file.
+2. Reviewed it against the repo's working style guide (edgar_profile.md voice section, `_VOICE` block in content_generator.py, and the two reference essays). Review with proposed improvements saved as `Substack essays/los-mercados-REVIEW.md`.
+3. Fact-checked the numeric claims. Two corrections: Elías-Lacetera-Macis support rises to 72 %, not 71 %; the CDC gestational-carrier series does not support "9.700 en 2022" (CDC: 3,432 in 2013 → 8,862 in 2021; SART: 9,225 in 2022). OECD reference listed but never cited.
+4. No edits applied to the essay body; all proposals are in the review file for Edgar's decision.
+
+---
+
 ## Session 2 — 2026-05-07
 
 ### Essay: "The Loser's Power" (file: `Substack essays/who-can-stop-whom.md`)

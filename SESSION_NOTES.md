@@ -1,15 +1,16 @@
 # SESSION_NOTES.md — Substack essays
 
-**Last update:** 2026-05-15 (full structural rewrite around the separation-of-powers thesis)
+**Last update:** 2026-10-29 (third essay saved; style review delivered)
 
 ## Project state
 
 - **Active work:** drafting and reviewing Substack essays.
 - **Substack-bot codebase:** ABANDONED.
 - **Drafts location:** `Substack essays/`
-- **Two essays exist:**
+- **Three essays exist:**
   - `my-favorite-coworker-complains-a-lot.md` — published; reference voice.
-  - `who-can-stop-whom.md` — current essay. Full rewrite 2026-05-15.
+  - `who-can-stop-whom.md` — full rewrite 2026-05-15; awaiting review.
+  - `los-mercados-que-nos-negamos-a-tener.md` — Spanish draft on repugnant markets and surrogacy. Style review and fact-check in `los-mercados-REVIEW.md` (2026-10-29); awaiting Edgar's decisions.
 - **Cross-conversation memory:** `~/.claude/projects/C--Users-L03574200-Documents-GitHub-substack-bot/memory/`
 
 ---
