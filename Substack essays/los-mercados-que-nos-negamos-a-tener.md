@@ -68,6 +68,8 @@ Una prohibición, además, no elimina la necesidad de los padres ni las circunst
 
 Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Ya pagamos por casi todo lo demás que rodea a un hijo: a la clínica de fertilidad, al obstetra, a la partera, a la niñera, a la guardería y al colegio. En buena parte del mundo se compensa a quienes donan óvulos y esperma, y durante siglos las familias que podían pagarla contrataban a una nodriza para amamantar a sus hijos. La gestación es el único eslabón de esa cadena al que le negamos un precio.
 
+Desde los años setenta, distintas corrientes feministas han propuesto remunerar el trabajo doméstico y de cuidados que las mujeres hacen gratis, y los institutos de estadística ya lo contabilizan. El INEGI estima que en 2023 ese trabajo equivalió al 26,3 % del PIB de México, y que las mujeres aportaron el 71,5 % de ese valor.[^11] Si aceptamos que cuidar, cocinar y criar tienen un valor económico que merece reconocerse y pagarse, cuesta explicar por qué gestar sería la excepción.
+
 Pensemos entonces en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando. La gestación subrogada no va a cambiar la tasa de fecundidad de ningún país; el argumento es sobre las personas que quieren formar una familia y no pueden.
 
 ## Lo que todavía no sabemos
@@ -109,3 +111,5 @@ Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos 
 [^9]: Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 16/2016, resuelta por el Pleno el 7 de junio de 2021. https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2023-11/A.I.%2016-2016.pdf
 
 [^10]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares y por indicación médica. Brasil: resoluciones del Consejo Federal de Medicina, que permiten la práctica sin pago y entre familiares. Colombia: Corte Constitucional, sentencia T-968 de 2009. Argentina carece de ley y resuelve caso por caso.
+
+[^11]: INEGI (2024). *Cuenta Satélite del Trabajo No Remunerado de los Hogares de México 2023*, comunicado 680/24, 25 de noviembre de 2024. https://inegi.org.mx/contenidos/saladeprensa/boletines/2024/CSTNRHM/CSTNRHM2023.pdf
