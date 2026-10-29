@@ -72,7 +72,7 @@ Es comprensible que a muchas personas les incomode pagar por un embarazo. La mat
 
 Hay que preguntarse a quién protege la prohibición. Pensemos en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia, y para algunos la única. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
 
-Conviene ser claro sobre lo que este argumento no dice. Los números de la gestación subrogada son minúsculos: unos miles de ciclos al año en el país donde más se practica. Ninguna tasa de fecundidad se mueve con eso, y quien venda la subrogación como política demográfica está vendiendo humo. El argumento es sobre las personas detrás de esa quinta parte de la encuesta del UNFPA, que quieren formar una familia y no pueden, y a las que les cerramos una de las pocas puertas que les quedaban sin preguntarnos cuánto cuesta cerrarla.
+Conviene ser claro sobre lo que este argumento no dice. La gestación subrogada no es una política demográfica, y quien la venda como tal está vendiendo humo. El argumento es sobre las personas que quieren formar una familia y no pueden, y a las que les cerramos una de las pocas puertas que les quedaban sin preguntarnos cuánto cuesta cerrarla.
 
 ## Lo que todavía no sabemos
 
