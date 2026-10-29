@@ -2,6 +2,8 @@
 
 Derived from the three published pieces on edgarcastrom.substack.com (read 2026-10-29) and the drafts in this folder. Where a rule has a number attached, the number was measured on the published text, not invented. Use this guide when drafting or reviewing; the older bot-era rules in `edgar_profile.md` and `content_generator.py` were written for 500-character Notes and are superseded where they conflict.
 
+**How to use the reference texts (Edgar, 2026-10-29).** The published essays set a floor, not a ceiling. Review against them for the things that are rules here (no AI clichés, verified facts, one argument once, no fake balance) and treat the rest, the shape of a paragraph, where the anchor sits, how long an on-ramp runs, as the current best attempt rather than the template. A new essay that does something the published ones did not is not a violation; it is the point. Flag "this is unlike the published essays" only when the new thing is also worse by the essay's own argument. The writing is supposed to get better with each piece, and that cannot happen if every draft is pulled back to the last one.
+
 Reference texts, in order of weight:
 
 1. "¿Quién puede detener a quién?" (May 2026, Spanish, ~2,800 words). The model for long Spanish essays.

@@ -48,13 +48,13 @@ En este caso, hablamos potencialmente de vidas.
 
 Regresemos al problema de la reproducción. Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto. Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
 
-Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias es la única alternativa: un hombre solo o una pareja de hombres no tienen otra forma de tener un hijo biológico.
+Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada es la única alternativa: un hombre solo o una pareja de hombres no tienen otra forma de tener un hijo biológico.
 
 Imaginemos también a una mujer que está dispuesta a llevar adelante un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
 
 Esta es, en esencia, la posibilidad que ofrece la gestación subrogada.
 
-La práctica ya existe y está creciendo. En Estados Unidos, los ciclos de transferencia embrionaria con gestantes pasaron de unos 3.400 en 2013 a unos 8.900 en 2021, según los Centros para el Control y la Prevención de Enfermedades (CDC).[^8] Son procedimientos, no nacimientos, pero muestran que la demanda existe y que, con reglas, se atiende.
+La práctica ya existe a una escala que no es anecdótica. En Estados Unidos, los ciclos de transferencia embrionaria con gestantes pasaron de unos 3.400 en 2013 a unos 8.900 en 2021, según los Centros para el Control y la Prevención de Enfermedades (CDC).[^8] Son procedimientos, no nacimientos, pero muestran que la demanda existe y que, con reglas, se atiende.
 
 En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, el estatus del acuerdo depende del estado: Tabasco lo regula desde 1997 y Sinaloa desde 2013. En junio de 2021 la Suprema Corte, al resolver una acción de inconstitucionalidad contra la ley tabasqueña, invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva y dejó claro que cada congreso local puede legislarla.[^9] Es decir, la Corte ya dijo que el acceso no puede depender de cómo esté compuesta la familia. La mayoría de los congresos, sin embargo, no ha legislado nada. Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.[^10]
 
@@ -62,7 +62,7 @@ Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la n
 
 Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
 
-Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Impide que lleguen a un acuerdo con garantías, o las empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
+Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Impide que lleguen a un acuerdo con garantías, o los empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
 ## ¿A quién estamos protegiendo?
 
@@ -80,13 +80,13 @@ Eso es lo que compra la prohibición. Conserva los acuerdos y les quita las gara
 
 Un mercado regulado tendría que resolver preguntas que hoy nadie responde: quién puede ser gestante y con qué controles de salud, qué parte de la compensación le llega a ella y qué parte se queda en intermediarios, cómo se fija la filiación desde el primer día, qué pasa si alguna de las partes cambia de opinión. Son preguntas difíciles. Son también las preguntas de cualquier contrato en el que una parte asume riesgos por cuenta de otra, y las hemos resuelto antes para la medicina, la minería y el trabajo doméstico.
 
-Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arreglo actual. Las familias que dejan de formarse, las mujeres que dejan de recibir un ingreso que querían recibir, los niños que nacen en un limbo jurídico. Son costos difíciles de estimar, y por eso casi nunca aparecen cuando se discute la prohibición.
+Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arreglo actual. Las familias que dejan de formarse, las mujeres que dejan de recibir un ingreso que buscaban, los niños que nacen en un limbo jurídico. Son costos difíciles de estimar, y por eso casi nunca aparecen cuando se discute la prohibición.
 
 ## Los mercados que nos negamos a tener
 
-Roth recordaba que durante siglos cobrar intereses pareció tan repugnante como hoy nos parece pagar por un embarazo, y que quienes lo prohibían creían proteger a los pobres de los usureros. Nadie hoy defendería esa prohibición. Aprendimos a regular el crédito.
+Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy nos parece igual de repugnante pagar por un embarazo. Nadie hoy defendería esa prohibición. Aprendimos a regular el crédito.
 
-Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que la gente cambia de opinión cuando conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los órganos con los que empezó este ensayo son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
+Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que la gente cambia de opinión cuando conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
 La discusión de fondo es filosófica. Qué cosas pueden comprarse y cuáles no, qué le debemos a quien quiere formar una familia y a quien está dispuesta a ayudarla, qué significa tratar a una persona con dignidad: son preguntas sobre la clase de sociedad que queremos ser, y la economía no las resuelve. Lo que la economía puede hacer es poner sobre la mesa lo que cada respuesta cuesta y quién lo paga, para que la decisión se tome sabiéndolo.
 
@@ -96,7 +96,7 @@ Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos 
 
 [^1]: CEPAL (2025). *Observatorio Demográfico 2025: América Latina y el Caribe ante la baja fecundidad*. https://www.cepal.org/es/publicaciones/82932-observatorio-demografico-2025-america-latina-caribe-la-baja-fecundidad. La tasa regional está por debajo del nivel de reemplazo (2,1) desde 2015.
 
-[^2]: OCDE (2024). *Society at a Glance 2024*. https://doi.org/10.1787/918d8db3-en. En 2024 la tasa coreana repuntó levemente, a 0,75.
+[^2]: OCDE (2024). *Society at a Glance 2024*. https://doi.org/10.1787/918d8db3-en. Según Statistics Korea, en 2024 la tasa repuntó levemente, a 0,75.
 
 [^3]: OMS (2023). "1 in 6 people globally affected by infertility". https://www.who.int/news/item/04-04-2023-1-in-6-people-globally-affected-by-infertility
 
