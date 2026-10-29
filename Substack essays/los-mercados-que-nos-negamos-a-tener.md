@@ -80,7 +80,7 @@ Eso es lo que compra la prohibición. Conserva los acuerdos y les quita las gara
 
 Un mercado regulado tendría que resolver preguntas que hoy nadie responde: quién puede ser gestante y con qué controles de salud, qué parte de la compensación le llega a ella y qué parte se queda en intermediarios, cómo se fija la filiación desde el primer día, qué pasa si alguna de las partes cambia de opinión. Son preguntas difíciles. Son también las preguntas de cualquier contrato en el que una parte asume riesgos por cuenta de otra, y las hemos resuelto antes para la medicina, la minería y el trabajo doméstico.
 
-Hay una pregunta que ni siquiera hemos empezado a responder: cuánto bienestar perdemos con el arreglo actual. Nadie en la región ha estimado cuántas familias dejan de formarse, cuántas mujeres dejan de recibir un ingreso que querían recibir, ni qué les cuesta a los niños nacer en un limbo jurídico. Legislamos sin ese número.
+Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arreglo actual. Las familias que dejan de formarse, las mujeres que dejan de recibir un ingreso que querían recibir, los niños que nacen en un limbo jurídico. Son costos difíciles de estimar, y por eso casi nunca aparecen cuando se discute la prohibición.
 
 ## Los mercados que nos negamos a tener
 
