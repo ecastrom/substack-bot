@@ -48,7 +48,7 @@ En este caso, hablamos potencialmente de vidas.
 
 Regresemos al problema de la reproducción. Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto. Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
 
-Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada no es la última alternativa después de agotar las demás: es la única. Un hombre solo o una pareja de hombres no tienen ninguna otra forma de tener un hijo biológico. Para ellos, prohibir la compensación equivale a cerrar la puerta.
+Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada es la única alternativa que existe. Un hombre solo o una pareja de hombres no tienen ninguna otra forma de tener un hijo biológico, y para ellos prohibir la compensación equivale a cerrar la puerta.
 
 Imaginemos también a una mujer que está dispuesta a llevar adelante un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
 
