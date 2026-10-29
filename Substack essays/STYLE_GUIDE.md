@@ -121,7 +121,6 @@ Measured on the published texts:
 ## 8. Signature devices (use each at most once per essay)
 
 - **The parallel series of "must still matter" / "if X learn".** *"Congress must still matter when the president is popular. Courts must still matter when the majority is angry..."* / *"Si las empresas aprenden que... Si los jueces aprenden que... Si los legisladores aprenden que..."* Four or five beats, same grammatical frame, then a one-line landing.
-- **"That is not X. That is Y."** *"That is not constitutionalism. That is constitutional opportunism."* / *"No que las instituciones hayan fallado: que funcionaron, pero el presidente decidió que eso era intolerable."*
 - **The paired couplet that names both failure modes.** *"The failure mode of a speak-up culture is noise. The failure mode of a silence culture is catastrophe."* / *"Un país puede sufrir porque el ejecutivo tiene demasiado poder... o porque tiene demasiada poca estabilidad."*
 - **The coined phrase, in italics or on its own line, paid off later.** *Love the gridlock* is introduced in §2 and cashed in the Peru section. *Separation of letterhead.* *Losing possible.*
 - **The return.** The last section names the opening scene again and reads it differently in light of the argument.
@@ -149,6 +148,7 @@ Measured on the published texts:
 
 ## 11. Things to cut on sight
 
+- **The "not X, it is Y" construction, in any form.** *"No es un principio: es una alternativa."* *"Demuestra algo más modesto."* *"That is not constitutionalism. That is constitutional opportunism."* *"No es un argumento. Lo que sí es un argumento es..."* Edgar's rule (2026-10-29): it reads as an AI tic, and it appeared six times in one machine-revised draft. Say what the thing is; if a contrast is needed, carry it inside one sentence with "pero" or "aunque", or let the example make it. Edgar's own "no solamente X; también Y" ("El problema no es simplemente que las personas quieran tener menos hijos. También existen restricciones...") is a different move, additive rather than a reveal, and stays. The published May essay used the reveal form once; going forward the rule is zero.
 - A generalizing opener about society, modern life, or "what we want".
 - "As an economist", "Soy economista y...", or any sentence whose job is to establish credentials.
 - The textbook mini-lecture (comparative advantage explained in three paragraphs; "balanced harmony" of the branches). Keep the example, cut the lecture.
@@ -173,7 +173,7 @@ Measured on the published texts:
 6. One full, honest concession to the other side.
 7. Every number checked twice against the primary source; scope of each estimate stated.
 8. Words per paragraph 50 to 70; one-liners ≤ 1 per 400 words; hedges ≤ 1 per 300 words.
-9. At most one rhetorical question closing a section.
+9. At most one rhetorical question closing a section. Zero "not X, it is Y" sentences.
 10. Last section returns to the opening scene and ends on one short line with personal stake.
 11. Footnotes and inline links, no bibliography block; previous-entry links filled.
 12. Spanish: RAE percentages, comma decimals, few dashes. English: em-dashes fine.
