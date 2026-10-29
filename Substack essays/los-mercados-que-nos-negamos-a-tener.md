@@ -1,6 +1,6 @@
 # Los mercados que nos negamos a tener
 
-**Sobre las cosas que más valoramos, las oportunidades que dejamos pasar y quién paga por las prohibiciones.**
+**Pagamos por casi todo lo que hace falta para tener un hijo. Solo nos negamos a pagarle a la mujer que lo gesta.**
 
 ## Tener hijos en el siglo XXI
 
@@ -62,33 +62,33 @@ La práctica ya existe y está creciendo. En Estados Unidos, los ciclos de trans
 
 En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, el estatus del acuerdo depende del estado: Tabasco lo regula desde 1997 y Sinaloa desde 2013. En junio de 2021 la Suprema Corte, al resolver una acción de inconstitucionalidad contra la ley tabasqueña, invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva y dejó claro que cada congreso local puede legislarla.[^9] La mayoría no lo ha hecho. Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.[^10]
 
-La gestación subrogada despierta objeciones particularmente fuertes. Nos preocupa que las mujeres vulnerables sean explotadas, que la necesidad económica condicione sus decisiones o que el embarazo termine tratado como un servicio cualquiera. Son preguntas importantes.
+Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Vale la pena mirarlas de cerca, porque ninguna es específica de la gestación subrogada.
 
-Pero conviene separar dos cosas. Un embarazo implica riesgos físicos y emocionales. También los implica subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios. Les pagamos más, exigimos seguros y regulamos las condiciones. El riesgo es un argumento para regular una actividad, no para prohibir que alguien la elija.
+Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones. El riesgo es un argumento para regular una actividad, no para prohibir que alguien la elija.
 
-Y una prohibición no elimina la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Puede impedir que lleguen a un acuerdo, o llevarlas a buscar alternativas en lugares con menos garantías. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
+Y que el embarazo quede tratado "como un servicio" es exactamente lo que ya ocurre con todo lo demás que rodea a un hijo. Pagamos a la clínica de fertilidad, al obstetra, al anestesiólogo, a la partera, a la niñera, a la guardería y al colegio. En buena parte del mundo se compensa a quienes donan óvulos y esperma. Durante siglos las familias que podían pagarla contrataban a una nodriza para amamantar a sus hijos. La gestación es el único eslabón de esa cadena al que le negamos un precio, y no está claro por qué ese eslabón, y no los demás, convierte al niño en mercancía.
+
+Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Impide que lleguen a un acuerdo con garantías, o las empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
 ## ¿A quién estamos protegiendo?
 
-Es perfectamente comprensible que muchas personas consideren problemático pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que trasciende cualquier valoración monetaria. Pero pagar por un servicio no significa que aquello que valoramos se reduzca a su precio. Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a personas por cuidar a nuestros familiares. Ninguno de estos pagos implica que la salud, la educación o el afecto familiar carezcan de valor moral.
+Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a personas por cuidar a nuestros padres, y nadie concluye que la salud, la educación o el afecto familiar carezcan de valor moral. La incomodidad es real. No es un argumento.
 
-Naturalmente, el embarazo tiene características que lo distinguen de estas actividades: la duración del compromiso y la presencia de un futuro niño plantean problemas que no podemos ignorar. Pero estas diferencias tampoco nos dicen, por sí solas, si prohibir la compensación es la mejor respuesta.
+Lo que sí es un argumento es preguntarse a quién protege la prohibición. Pensemos en las personas directamente involucradas. Para los futuros padres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
 
-Pensemos en las personas directamente involucradas. Para los futuros padres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
-
-Y hay un elemento adicional. En sociedades que enfrentan una caída persistente de la fecundidad, permitir que más personas formen las familias que desean podría producir beneficios que trascienden a quienes participan directamente en estos acuerdos. No sabemos qué tan grandes serían esos beneficios. La gestación subrogada sigue siendo una práctica relativamente poco frecuente y está lejos de constituir una solución general al problema demográfico. Pero tampoco sabemos cuánto bienestar perdemos al restringirla.
+Y hay un elemento adicional. En sociedades que enfrentan una caída persistente de la fecundidad, permitir que más personas formen las familias que desean produce beneficios que trascienden a quienes participan en el acuerdo. La gestación subrogada es poco frecuente y no va a resolver el problema demográfico por sí sola. Pero cada niño que nace gracias a ella es un beneficio que la prohibición elimina, y nadie lo está contando.
 
 ## Lo que todavía no sabemos
 
 ¿Cuántas personas recurrirían a la gestación subrogada si tuvieran mayor acceso? ¿Cuántas mujeres estarían dispuestas a participar y bajo qué condiciones? ¿Qué parte de la compensación llega efectivamente a las gestantes? ¿Qué instituciones permitirían proteger mejor su salud y autonomía?
 
-También necesitamos comprender los costos de las alternativas regulatorias. Una prohibición puede prevenir ciertos abusos, pero también desplazar los acuerdos hacia lugares con menos supervisión. Permitir compensaciones puede ampliar las oportunidades, pero también crear incentivos y riesgos que requieren regulación.
+También necesitamos comprender qué hace cada alternativa regulatoria. Una prohibición desplaza los acuerdos hacia lugares con menos supervisión. Un mercado regulado exige reglas sobre contratos, salud y filiación, como las exige cualquier otro servicio en el que una parte asume riesgos por cuenta de otra.
 
 No tenemos buenas estimaciones de las ganancias netas de bienestar que podrían producir estos intercambios en América Latina. Y no basta con observar cuánto pagan los padres o cuánto reciben las gestantes. El valor económico de una transacción depende de los beneficios que genera para las partes, de los costos que asumen y de sus consecuencias sobre terceros. Es precisamente ahí donde necesitamos más investigación.
 
 ## Los mercados que nos negamos a tener
 
-La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia. Existen transacciones que rechazamos por razones morales, incluso cuando no participamos en ellas. Algunas prohibiciones pueden ser esenciales para proteger derechos fundamentales. Otras podrían estar impidiendo oportunidades importantes sin conseguir los objetivos que las motivaron. Distinguir entre ambas situaciones no es sencillo. Tampoco podemos asumir que toda transacción voluntaria produce beneficios sociales o que toda objeción moral carece de fundamento.
+La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia. Existen transacciones que rechazamos por razones morales, incluso cuando no participamos en ellas. Algunas prohibiciones pueden ser esenciales para proteger derechos fundamentales. Otras podrían estar impidiendo oportunidades importantes sin conseguir los objetivos que las motivaron. Distinguir entre ambas situaciones exige algo que casi nunca hacemos: contar los costos de la prohibición con el mismo cuidado con que contamos sus beneficios.
 
 Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos. En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, de mujeres que podrían encontrar oportunidades económicas y de sociedades que enfrentan transformaciones demográficas profundas.
 
