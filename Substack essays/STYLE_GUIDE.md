@@ -146,9 +146,41 @@ Measured on the published texts:
 
 ---
 
-## 11. Things to cut on sight
+## 11. No AI clichés
 
-- **The "not X, it is Y" construction, in any form.** *"No es un principio: es una alternativa."* *"Demuestra algo más modesto."* *"That is not constitutionalism. That is constitutional opportunism."* *"No es un argumento. Lo que sí es un argumento es..."* Edgar's rule (2026-10-29): it reads as an AI tic, and it appeared six times in one machine-revised draft. Say what the thing is; if a contrast is needed, carry it inside one sentence with "pero" or "aunque", or let the example make it. Edgar's own "no solamente X; también Y" ("El problema no es simplemente que las personas quieran tener menos hijos. También existen restricciones...") is a different move, additive rather than a reveal, and stays. The published May essay used the reveal form once; going forward the rule is zero.
+Edgar's rule, 2026-10-29, after a machine-revised draft came back with six instances of one tic: **nothing that reads as generated.** The test is simple. If a sentence could be lifted out and dropped into any other essay on any other subject without loss, it is filler and goes. If a sentence's shape is doing the work instead of its content, it goes. The list below is what has actually shown up in drafts for these essays; extend it when a new one appears.
+
+**Sentence shapes**
+
+- **"Not X, it is Y" / "No es X: es Y" / "No es X. Es Y."** The reveal construction, in every variant: *"No es un principio: es una alternativa"*, *"Demuestra algo más modesto"*, *"That is not constitutionalism. That is constitutional opportunism"*, *"No es un argumento. Lo que sí es un argumento es..."*, *"no es la última alternativa: es la única"*. Zero occurrences. Say what the thing is. If a contrast is needed, put it inside one sentence with "pero" or "aunque", or let the example carry it. Edgar's additive "no solamente X; también Y" is a different move and stays, but watch the second sentence: if it opens with "Es", merge the two with a colon.
+- **The triplet for its own sake.** Three parallel nouns or clauses where one or two would do: *"comprender sus consecuencias, identificar alternativas y medir los costos"* is Edgar's and earns it; *"específico, accionable, dirigido"* stacked for rhythm does not. If the third item adds nothing the first two did not, cut it.
+- **The one-line verdict after a paragraph that already made the point.** *"No son preocupaciones menores."* *"Y esas consecuencias pueden ser enormes."* *"Es precisamente ahí donde necesitamos más investigación."* See §7 on one-liner density.
+- **The staircase of rhetorical questions.** One per essay, and never two in a row.
+- **The pre-announced reveal.** *"Aquí está el dato que me interesa."* *"Y hay un elemento adicional."* *"Pero también hay algo que merece nuestra atención."* *"Here's the thing."* Delete the announcement; give the thing.
+- **The symmetrical both-sides sentence.** *"Una prohibición puede prevenir ciertos abusos, pero también desplazar los acuerdos. Permitir compensaciones puede ampliar las oportunidades, pero también crear riesgos."* Balanced for its own sake. Say which effect you think dominates, or cut.
+- **The reflexive concession.** *"Son preguntas importantes."* *"Son preocupaciones legítimas."* *"Naturalmente, el embarazo tiene características que lo distinguen..."* Concede once, in full, where the argument needs it (§4). Never as a ritual before every claim.
+- **The "it is worth noting / conviene recordar / vale la pena señalar" opener.** If it is worth noting, note it.
+
+**Words and phrases**
+
+- *Revelador, fascinante, extraordinario, profundamente, considerablemente, particularmente, perfectamente comprensible, sin duda, en última instancia, en esencia.* Intensifiers and softeners that add emphasis without information. One "fascinante" per essay at most, and only if the author would say it at lunch.
+- *Navegar, abordar, desglosar, profundizar, matizar* used as filler verbs; *marco, dinámica, narrativa, paradigma* used as filler nouns. In English: *navigate, unpack, delve, nuanced, landscape, tapestry, underscore, crucial, pivotal, robust, leverage, foster, testament to.*
+- *"En un mundo donde..." / "In a world where..."*, *"en el siglo XXI"* as a frame rather than a date, *"más que nunca"*, *"cada vez más"* without a number behind it.
+- *"La incomodidad es real."* and its relatives: the sentence that validates a feeling before dismissing it.
+- Hedges on claims that are not uncertain: *necesariamente, en cierto modo, de alguna manera, podría argumentarse, quizás.* Keep hedges for genuine uncertainty (§5), and name the uncertainty rather than wave at it.
+
+**Structure**
+
+- An ending that summarizes the essay. The essays end on a scene and a short line, not a recap.
+- An ending that lists what we still do not know. Research questions can be a section; they cannot be the close.
+- Headers that label instead of advance: *"Conclusión"*, *"Contexto"*, *"Lo que sabemos"*. See §1.
+- A section that restates the title.
+
+**How to check.** Before handing a draft back, grep for the sentence shapes above (`no es [^.]*: es`, `no es [^.]*\. Es `, `^(Y|Pero) (hay|también) `, `Son (preguntas|preocupaciones)`), count one-liners and hedges per §7, and read the last paragraph aloud. If any paragraph sounds like it was written to sound like writing, rewrite it in the voice of §6.
+
+## 12. Things to cut on sight
+
+- Anything in §11 below. Run that list before every handoff.
 - A generalizing opener about society, modern life, or "what we want".
 - "As an economist", "Soy economista y...", or any sentence whose job is to establish credentials.
 - The textbook mini-lecture (comparative advantage explained in three paragraphs; "balanced harmony" of the branches). Keep the example, cut the lecture.
@@ -163,7 +195,7 @@ Measured on the published texts:
 
 ---
 
-## 12. Pre-publication checklist
+## 13. Pre-publication checklist
 
 1. Subtitle states a thesis someone could disagree with.
 2. First sentence puts the author in a scene.
@@ -173,7 +205,7 @@ Measured on the published texts:
 6. One full, honest concession to the other side.
 7. Every number checked twice against the primary source; scope of each estimate stated.
 8. Words per paragraph 50 to 70; one-liners ≤ 1 per 400 words; hedges ≤ 1 per 300 words.
-9. At most one rhetorical question closing a section. Zero "not X, it is Y" sentences.
+9. At most one rhetorical question closing a section. Zero "not X, it is Y" sentences. §11 grep run and clean.
 10. Last section returns to the opening scene and ends on one short line with personal stake.
 11. Footnotes and inline links, no bibliography block; previous-entry links filled.
 12. Spanish: RAE percentages, comma decimals, few dashes. English: em-dashes fine.
