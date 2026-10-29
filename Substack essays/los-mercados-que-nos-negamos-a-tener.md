@@ -30,7 +30,7 @@ En 2007, [Alvin Roth](https://doi.org/10.1257/jep.21.3.37) publicó un artículo
 
 Pensemos en alguien que necesita desesperadamente un riñón. Otra persona podría estar dispuesta a proporcionarlo a cambio de una compensación. Sin embargo, en la mayoría de los países esta posibilidad está prohibida. Las razones son comprensibles. Nos preocupa que las personas más pobres terminen vendiendo sus órganos por necesidad, que aparezcan abusos o que el cuerpo humano se convierta en una mercancía. No son preocupaciones menores.
 
-Pero consideremos también a quien lleva años esperando un trasplante. Para esa persona, la prohibición no es un principio: es una alternativa que alguien descartó en su nombre. Aquí aparece una dificultad que no siempre reconocemos: las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas. Y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
+Pero consideremos también a quien lleva años esperando un trasplante. Para esa persona, alguien descartó una alternativa en su nombre. Aquí aparece una dificultad que no siempre reconocemos: las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas. Y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
 
 Roth señala, además, que lo que consideramos moralmente aceptable cambia con el tiempo. Cobrar intereses por préstamos fue durante siglos objeto de profundas objeciones religiosas y morales. Hoy es una práctica ordinaria. Otras actividades anteriormente toleradas son ahora rechazadas por razones fundamentales. La moral importa. Pero nuestras intuiciones sobre una transacción no nos dicen cuáles serán las consecuencias de prohibirla.
 
@@ -38,7 +38,7 @@ Roth señala, además, que lo que consideramos moralmente aceptable cambia con e
 
 [Julio Elías, Nicola Lacetera y Mario Macis](https://doi.org/10.1257/aer.p20151035) han estudiado experimentalmente cómo se forman estas actitudes. En un experimento publicado en la *American Economic Review* en 2015, encontraron que informar a las personas sobre los beneficios potenciales de compensar a donantes de órganos aumentaba el apoyo a estas transacciones del 52 % al 72 %.[^6]
 
-Muchas personas que inicialmente se oponen a una transacción reconsideran su posición cuando conocen lo que podría conseguirse mediante ella. Esto no demuestra que debamos permitir la compraventa de órganos. Demuestra algo más modesto y más incómodo: que nuestros juicios morales dependen, en parte, de cuánto sabemos sobre las consecuencias de nuestras decisiones.
+Muchas personas que inicialmente se oponen a una transacción reconsideran su posición cuando conocen lo que podría conseguirse mediante ella. Esto no demuestra que debamos permitir la compraventa de órganos. Pero sí que nuestras valoraciones morales pueden depender de cuánto sabemos sobre las consecuencias de nuestras decisiones.
 
 Y esas consecuencias pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
 
@@ -48,7 +48,7 @@ En este caso, hablamos potencialmente de vidas.
 
 Regresemos al problema de la reproducción. Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto. Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
 
-Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada no es la última alternativa después de agotar las demás: es la única. Un hombre solo o una pareja de hombres no tienen ninguna otra forma de tener un hijo biológico. Cuando prohibimos la compensación no estamos restringiendo una opción entre varias. Para ellos estamos cerrando la puerta.
+Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada no es la última alternativa después de agotar las demás: es la única. Un hombre solo o una pareja de hombres no tienen ninguna otra forma de tener un hijo biológico. Para ellos, prohibir la compensación equivale a cerrar la puerta.
 
 Imaginemos también a una mujer que está dispuesta a llevar adelante un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
 
@@ -60,7 +60,7 @@ En América Latina, las respuestas regulatorias son muy diferentes. En México, 
 
 Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Vale la pena mirarlas de cerca, porque ninguna es específica de la gestación subrogada.
 
-Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones. El riesgo es un argumento para regular una actividad, no para prohibir que alguien la elija.
+Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones. El riesgo justifica regular la actividad, y eso es lo que hacemos con esos oficios.
 
 Y que el embarazo quede tratado "como un servicio" es exactamente lo que ya ocurre con todo lo demás que rodea a un hijo. Pagamos a la clínica de fertilidad, al obstetra, al anestesiólogo, a la partera, a la niñera, a la guardería y al colegio. En buena parte del mundo se compensa a quienes donan óvulos y esperma. Durante siglos las familias que podían pagarla contrataban a una nodriza para amamantar a sus hijos. La gestación es el único eslabón de esa cadena al que le negamos un precio, y no está claro por qué ese eslabón, y no los demás, convierte al niño en mercancía.
 
@@ -68,9 +68,9 @@ Una prohibición, además, no elimina la necesidad de los padres ni las circunst
 
 ## ¿A quién estamos protegiendo?
 
-Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a personas por cuidar a nuestros padres, y nadie concluye que la salud, la educación o el afecto familiar carezcan de valor moral. La incomodidad es real. No es un argumento.
+Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a personas por cuidar a nuestros padres, y nadie concluye que la salud, la educación o el afecto familiar carezcan de valor moral. La incomodidad es real, pero no basta para prohibir.
 
-Lo que sí es un argumento es preguntarse a quién protege la prohibición. Pensemos en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia, y para algunos la única. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
+Hay que preguntarse a quién protege la prohibición. Pensemos en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia, y para algunos la única. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
 
 Y hay un elemento adicional. En sociedades que enfrentan una caída persistente de la fecundidad, permitir que más personas formen las familias que desean produce beneficios que trascienden a quienes participan en el acuerdo. La gestación subrogada es poco frecuente y no va a resolver el problema demográfico por sí sola. Pero cada niño que nace gracias a ella es un beneficio que la prohibición elimina, y nadie lo está contando.
 
@@ -88,7 +88,7 @@ La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia
 
 Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos. En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, sea cual sea su forma; de mujeres que podrían encontrar oportunidades económicas; y de sociedades que enfrentan transformaciones demográficas profundas.
 
-La pregunta no es solamente qué intercambios consideramos moralmente aceptables. También es qué ocurre cuando decidimos impedirlos. La economía no resuelve ese dilema. Sí puede medir lo que dejamos fuera de la discusión.
+La pregunta no es solamente qué intercambios consideramos moralmente aceptables. También es qué ocurre cuando decidimos impedirlos. La economía no puede resolver por sí sola estos dilemas. Pero sí puede ayudarnos a comprender sus consecuencias, identificar alternativas y medir los costos que con frecuencia dejamos fuera de la discusión.
 
 Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y mi vida es mejor por eso. A las personas de las que habla este ensayo les prohibimos algo parecido, con razones que entiendo y con costos que casi nunca medimos.
 
