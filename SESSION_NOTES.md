@@ -7,6 +7,7 @@
 - **Active work:** drafting and reviewing Substack essays.
 - **Substack-bot codebase:** ABANDONED.
 - **Drafts location:** `Substack essays/`
+- **Style guide:** `Substack essays/STYLE_GUIDE.md` (2026-10-29), derived from the published posts; use it for drafting and review.
 - **Three essays exist:**
   - `my-favorite-coworker-complains-a-lot.md` — published; reference voice.
   - `who-can-stop-whom.md` — full rewrite 2026-05-15; awaiting review.

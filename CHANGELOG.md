@@ -12,6 +12,7 @@ Human-readable log of work on the Substack essays project.
 2. Reviewed it against the repo's working style guide (edgar_profile.md voice section, `_VOICE` block in content_generator.py, and the two reference essays). Review with proposed improvements saved as `Substack essays/los-mercados-REVIEW.md`.
 3. Fact-checked the numeric claims. Two corrections: Elías-Lacetera-Macis support rises to 72 %, not 71 %; the CDC gestational-carrier series does not support "9.700 en 2022" (CDC: 3,432 in 2013 → 8,862 in 2021; SART: 9,225 in 2022). OECD reference listed but never cited.
 4. No edits applied to the essay body; all proposals are in the review file for Edgar's decision.
+5. Wrote `Substack essays/STYLE_GUIDE.md`: a measured style guide derived from the three published Substack posts and the repo drafts (shape, opening, subtitle, argument moves, evidence rules, voice, rhythm metrics, signature devices, language and typography, Substack citation mechanics, cut-list, pre-publication checklist).
 
 ---
 
