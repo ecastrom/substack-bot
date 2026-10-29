@@ -72,7 +72,7 @@ Es comprensible que a muchas personas les incomode pagar por un embarazo. La mat
 
 Hay que preguntarse a quién protege la prohibición. Pensemos en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia, y para algunos la única. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
 
-Y hay un elemento adicional. En sociedades que enfrentan una caída persistente de la fecundidad, permitir que más personas formen las familias que desean produce beneficios que trascienden a quienes participan en el acuerdo. La gestación subrogada es poco frecuente y no va a resolver el problema demográfico por sí sola. Pero cada niño que nace gracias a ella es un beneficio que la prohibición elimina, y nadie lo está contando.
+Conviene ser claro sobre lo que este argumento no dice. Los números de la gestación subrogada son minúsculos: unos miles de ciclos al año en el país donde más se practica. Ninguna tasa de fecundidad se mueve con eso, y quien venda la subrogación como política demográfica está vendiendo humo. El argumento es sobre las personas detrás de esa quinta parte de la encuesta del UNFPA, que quieren formar una familia y no pueden, y a las que les cerramos una de las pocas puertas que les quedaban sin preguntarnos cuánto cuesta cerrarla.
 
 ## Lo que todavía no sabemos
 
@@ -86,7 +86,7 @@ No tenemos buenas estimaciones de las ganancias netas de bienestar que producir�
 
 La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia. Existen transacciones que rechazamos por razones morales, incluso cuando no participamos en ellas. Algunas prohibiciones pueden ser esenciales para proteger derechos fundamentales. Otras podrían estar impidiendo oportunidades importantes sin conseguir los objetivos que las motivaron. Distinguir entre ambas situaciones exige algo que casi nunca hacemos: contar los costos de la prohibición con el mismo cuidado con que contamos sus beneficios.
 
-Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos. En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, sea cual sea su forma; de mujeres que podrían encontrar oportunidades económicas; y de sociedades que enfrentan transformaciones demográficas profundas.
+Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos. En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, sea cual sea su forma, y de mujeres que podrían encontrar en ello una oportunidad económica.
 
 La pregunta no es solamente qué intercambios consideramos moralmente aceptables. También es qué ocurre cuando decidimos impedirlos. La economía no puede resolver por sí sola estos dilemas. Pero sí puede ayudarnos a comprender sus consecuencias, identificar alternativas y medir los costos que con frecuencia dejamos fuera de la discusión.
 
