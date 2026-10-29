@@ -72,23 +72,23 @@ Desde los años setenta, distintas corrientes feministas han propuesto remunerar
 
 Pensemos entonces en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando. La gestación subrogada no va a cambiar la tasa de fecundidad de ningún país; el argumento es sobre las personas que quieren formar una familia y no pueden.
 
-## Lo que todavía no sabemos
+## Lo que la prohibición produce
 
-¿Cuántas personas recurrirían a la gestación subrogada si tuvieran mayor acceso? ¿Cuántas mujeres estarían dispuestas a participar y bajo qué condiciones? ¿Qué parte de la compensación llega efectivamente a las gestantes? ¿Qué instituciones permitirían proteger mejor su salud y autonomía?
+En buena parte de América Latina la gestación subrogada ya ocurre, con ley o sin ella. Donde no hay reglas hay agencias que operan en el vacío legal, contratos que ningún juez está obligado a hacer cumplir, gestantes sin seguro ni seguimiento médico garantizado, y niños cuya filiación se decide caso por caso en un tribunal. Las familias con dinero viajan a donde la práctica es legal. Las que no lo tienen se quedan con las opciones que la ley dejó: ninguna, o la informal.
 
-También necesitamos comprender qué exige cada alternativa regulatoria. Un mercado con compensación requiere reglas sobre contratos, salud y filiación, como cualquier otro servicio en el que una parte asume riesgos por cuenta de otra.
+Eso es lo que compra la prohibición. Conserva los acuerdos y les quita las garantías.
 
-No tenemos buenas estimaciones de las ganancias netas de bienestar que producirían estos intercambios en América Latina, y no basta con observar cuánto pagan los padres o cuánto reciben las gestantes. El valor económico de una transacción depende de los beneficios que genera para las partes, de los costos que asumen y de sus consecuencias sobre terceros. Ahí es donde falta la investigación.
+Un mercado regulado tendría que resolver preguntas que hoy nadie responde: quién puede ser gestante y con qué controles de salud, qué parte de la compensación le llega a ella y qué parte se queda en intermediarios, cómo se fija la filiación desde el primer día, qué pasa si alguna de las partes cambia de opinión. Son preguntas difíciles. Son también las preguntas de cualquier contrato en el que una parte asume riesgos por cuenta de otra, y las hemos resuelto antes para la medicina, la minería y el trabajo doméstico.
+
+Hay una pregunta que ni siquiera hemos empezado a responder: cuánto bienestar perdemos con el arreglo actual. Nadie en la región ha estimado cuántas familias dejan de formarse, cuántas mujeres dejan de recibir un ingreso que querían recibir, ni qué les cuesta a los niños nacer en un limbo jurídico. Legislamos sin ese número.
 
 ## Los mercados que nos negamos a tener
 
-La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia. Existen transacciones que rechazamos por razones morales, incluso cuando no participamos en ellas. Algunas prohibiciones pueden ser esenciales para proteger derechos fundamentales. Otras podrían estar impidiendo oportunidades importantes sin conseguir los objetivos que las motivaron. Distinguir entre ambas situaciones no es sencillo.
+Roth recordaba que durante siglos cobrar intereses pareció tan repugnante como hoy nos parece pagar por un embarazo, y que quienes lo prohibían creían proteger a los pobres de los usureros. Nadie hoy defendería esa prohibición. Aprendimos a regular el crédito.
 
-Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos. En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, sea cual sea su forma, y de mujeres que podrían encontrar en ello una oportunidad económica.
+Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que la gente cambia de opinión cuando conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los órganos con los que empezó este ensayo son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
-La pregunta no es solamente qué intercambios consideramos moralmente aceptables. También es qué ocurre cuando decidimos impedirlos. La economía no puede resolver por sí sola estos dilemas. Pero sí puede ayudarnos a comprender sus consecuencias, identificar alternativas y medir los costos que con frecuencia dejamos fuera de la discusión.
-
-Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos. A las personas de las que habla este ensayo les prohibimos algo parecido.
+Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y a nadie se le ocurriría llamar a eso explotación. A las personas de las que habla este ensayo les prohibimos algo parecido.
 
 Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos cuesta no tenerlos.
 
