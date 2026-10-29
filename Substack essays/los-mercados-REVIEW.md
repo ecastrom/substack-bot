@@ -1,6 +1,6 @@
 # Review: "Los mercados que nos negamos a tener"
 
-Date: 2026-10-29. Draft saved as `los-mercados-que-nos-negamos-a-tener.md` (1,879 words, 72 paragraphs).
+Date: 2026-10-29. Review of Edgar's first draft (1,879 words, 72 paragraphs). **Applied 2026-10-29:** the essay file now holds the revised version (1,700 words, 26 paragraphs, 6 headers, 10 footnotes). The original draft is in git history (commit 058e20c). Items A–L and the fact fixes below were all applied; the OECD reference now supports the Korea figure.
 
 ## The style guide applied
 

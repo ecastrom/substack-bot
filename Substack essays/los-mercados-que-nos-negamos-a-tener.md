@@ -1,172 +1,87 @@
 # Los mercados que nos negamos a tener
 
-**Sobre las cosas que más valoramos y las oportunidades que dejamos pasar.**
+**Prohibir un intercambio que nos incomoda también tiene un costo. Casi nunca lo pagan quienes lo prohíben.**
 
-## Tener hijos en el siglo XXI
+Soy un pésimo agricultor. Probablemente sería un constructor todavía peor. Si tuviera que producir mis alimentos y levantar mi propia casa, viviría en condiciones bastante miserables. Afortunadamente puedo dedicarme a enseñar economía y usar lo que gano para comprarle comida y techo a gente que sabe hacer esas cosas mucho mejor que yo. Nadie me lo prohíbe, y a nadie le parece escandaloso.
 
-Nuestra idea de lo que significa vivir bien ha cambiado profundamente. Esperamos alcanzar estabilidad económica, desarrollarnos profesionalmente, disfrutar de nuestro tiempo y conservar nuestra autonomía. Formar una familia sigue siendo importante para muchos, pero tener hijos exige sacrificios que compiten directamente con estas aspiraciones. Queremos ambas cosas, aunque cada vez parece más difícil conciliarlas.
+Detrás de esa obviedad hay algo que vale la pena recordar: lo que una persona puede conseguir en la vida no depende solo de sus recursos y habilidades, sino de con quién puede intercambiar. El intercambio es la forma más antigua que tenemos de ayudarnos unos a otros, y nos permite superar límites que individualmente serían insalvables.
 
-Esta tensión ayuda a explicar una transformación demográfica extraordinaria. América Latina, que hace pocas décadas se preocupaba por el crecimiento acelerado de su población, registra hoy tasas de fecundidad inferiores al nivel de reemplazo. Según la CEPAL, en 2024 la región alcanzó apenas 1,8 hijos por mujer.
+Pero hay intercambios que, como sociedad, decidimos no permitir, aunque las dos partes quieran realizarlos. A veces tenemos excelentes razones. Otras veces prohibimos primero y nunca llegamos a contar lo que cuesta la prohibición, ni a quién. Este ensayo es sobre uno de esos casos, y empieza en un lugar que parece lejano: las familias que no llegan a formarse.
 
-La caída de la fecundidad plantea un problema colectivo. Las nuevas generaciones contribuirán a sostener la actividad económica y los sistemas de pensiones, pero los costos de criarlas recaen principalmente sobre las familias. La decisión es individual, pero sus consecuencias trascienden a quienes la toman.
+## Las familias que no llegan a formarse
 
-Los gobiernos han intentado de todo: subsidios, transferencias monetarias, beneficios tributarios y licencias parentales. Los resultados han sido decepcionantes. Incluso países como Corea del Sur y Hungría, que han realizado esfuerzos extraordinarios para incentivar la natalidad, siguen muy lejos de alcanzar el nivel de reemplazo. Corea del Sur llegó a registrar apenas 0,72 hijos por mujer en 2023.
+América Latina, que hace pocas décadas se preocupaba por el crecimiento acelerado de su población, hoy tiene menos hijos de los que necesita para reemplazarse. Según la CEPAL, en 2024 la región registró 1,8 hijos por mujer, por debajo del nivel de reemplazo desde 2015.[^1] Los gobiernos que han intentado revertir caídas así lo han probado todo: subsidios, transferencias, beneficios tributarios, licencias parentales. Corea del Sur, que ha gastado más que casi cualquier otro país en incentivar la natalidad, llegó a registrar 0,72 hijos por mujer en 2023.[^2]
 
-Quizás no debería sorprendernos. Tener hijos no es solamente un problema de dinero. También implica renunciar a tiempo, autonomía y oportunidades. Ninguna transferencia monetaria puede resolver por sí sola esa tensión.
+Quizás no debería sorprendernos. Tener hijos no es solo un problema de dinero. Es renunciar a tiempo, a autonomía y a oportunidades que hoy valoramos más que nuestros padres, y ninguna transferencia resuelve por sí sola esa tensión. Además, nuestra biología no se adaptó a nuestras nuevas aspiraciones: postergamos la maternidad por buenas razones, pero la capacidad reproductiva sigue teniendo límites, y muchas personas descubren que, cuando finalmente quieren tener hijos, conseguirlo es mucho más difícil de lo que esperaban.
 
-Y hay una dificultad adicional: nuestra biología no se ha adaptado a nuestras nuevas aspiraciones. Durante décadas promovimos, con buenas razones, la reducción de los embarazos a edades tempranas. La educación y las oportunidades profesionales también hicieron cada vez más atractivo postergar la maternidad. Pero nuestra capacidad reproductiva sigue teniendo límites.
+Aquí está el dato que me interesa. Según la Organización Mundial de la Salud, una de cada seis personas experimenta infertilidad en algún momento de su vida.[^3] Y una encuesta del Fondo de Población de las Naciones Unidas (UNFPA) en catorce países encontró en 2025 que cerca de una quinta parte de los adultos cree que no podrá tener el número de hijos que desea.[^4] El problema no es solamente que las personas quieran tener menos hijos. También existen restricciones que les impiden formar las familias que desean.
 
-Muchas personas descubren que, cuando finalmente desean tener hijos, conseguirlo es mucho más difícil de lo que esperaban.
-
-Según la Organización Mundial de la Salud, una de cada seis personas experimenta infertilidad en algún momento de su vida. Una encuesta internacional del UNFPA de 2025 encontró que cerca de una quinta parte de los adultos consultados considera que no podrá tener el número de hijos que desea.
-
-El problema no es simplemente que las personas quieran tener menos hijos. También existen restricciones que les impiden formar las familias que desean.
-
-¿Podemos encontrar otras formas de superar esas restricciones?
-
-## La posibilidad de ayudarnos unos a otros
-
-Soy un pésimo agricultor. Probablemente sería un constructor todavía peor. Si tuviera que producir mis alimentos y construir mi vivienda, viviría en condiciones bastante miserables.
-
-Afortunadamente, puedo dedicarme a enseñar economía y utilizar los ingresos de mi trabajo para acceder a lo que otras personas saben hacer mejor que yo.
-
-Parece una observación trivial, pero hay algo extraordinario detrás. Nuestra capacidad de satisfacer necesidades no depende exclusivamente de nuestros propios recursos y habilidades. También depende de nuestra capacidad de cooperar con otros.
-
-El intercambio nos permite superar limitaciones que individualmente serían insalvables.
-
-Pero hay situaciones en las que esta posibilidad desaparece. No porque las personas no quieran cooperar, sino porque consideramos que ciertas formas de cooperación no deberían permitirse.
-
-En algunos casos tenemos excelentes razones para hacerlo. En otros, la respuesta es mucho menos clara.
+Algunas de esas restricciones son biológicas o económicas. Otras las pusimos nosotros.
 
 ## Cuando el intercambio nos incomoda
 
-En 2007, Alvin Roth publicó un artículo que estudiaba un fenómeno fascinante: la repugnancia como restricción sobre los mercados.
+En 2007, [Alvin Roth](https://doi.org/10.1257/jep.21.3.37) publicó un artículo sobre un fenómeno que llamó repugnancia como restricción sobre los mercados.[^5] Su observación era sencilla: existen transacciones que la sociedad rechaza incluso cuando las personas directamente involucradas quieren realizarlas. Pensemos en alguien que necesita un riñón y en otra persona dispuesta a darle uno a cambio de una compensación. En casi todos los países, ese acuerdo está prohibido.
 
-Su observación era sencilla. Existen transacciones que la sociedad rechaza incluso cuando las personas directamente involucradas desean realizarlas.
+Las razones son serias y conviene decirlas completas. Nos preocupa que las personas más pobres terminen vendiendo sus órganos por necesidad, que la decisión no sea realmente libre, que aparezcan intermediarios abusivos, y que el cuerpo humano pase a tratarse como una mercancía más. Ninguna de esas preocupaciones es menor, y nadie que haya visto un mercado funcionar mal puede descartarlas con un gesto.
 
-Pensemos en alguien que necesita desesperadamente un riñón. Otra persona podría estar dispuesta a proporcionarlo a cambio de una compensación. Sin embargo, en la mayoría de los países esta posibilidad está prohibida.
+Pero consideremos también a quien lleva años en una lista de espera. Para esa persona, la prohibición no es un principio: es una alternativa que alguien descartó en su nombre. Las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas, y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
 
-Las razones son comprensibles. Nos preocupa que las personas más pobres terminen vendiendo sus órganos por necesidad, que aparezcan abusos o que el cuerpo humano se convierta en una mercancía.
+Roth señala, además, que lo que consideramos moralmente aceptable cambia con el tiempo. Cobrar intereses por un préstamo fue durante siglos objeto de condena religiosa y moral; hoy es una práctica ordinaria. Otras actividades antes toleradas hoy nos parecen inaceptables por razones de fondo. La moral importa. Pero nuestras intuiciones sobre una transacción no nos dicen cuáles serán las consecuencias de prohibirla.
 
-No son preocupaciones menores.
+## Lo que cambia cuando conocemos los beneficios
 
-Pero consideremos también a quien lleva años esperando un trasplante. ¿Qué significa para esa persona que hayamos descartado una posible alternativa?
+[Julio Elías, Nicola Lacetera y Mario Macis](https://doi.org/10.1257/aer.p20151035) han estudiado experimentalmente cómo se forman estas actitudes. En un experimento publicado en 2015 en la *American Economic Review*, informar a las personas sobre los beneficios potenciales de compensar a los donantes de órganos aumentó el apoyo a esa compensación del 52 % al 72 %.[^6] Muchas personas que inicialmente rechazan una transacción reconsideran su posición cuando conocen lo que podría conseguirse con ella.
 
-Aquí aparece una dificultad que no siempre reconocemos: las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas.
-
-Y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
-
-Roth señala, además, que lo que consideramos moralmente aceptable cambia con el tiempo. Cobrar intereses por préstamos fue durante siglos objeto de profundas objeciones religiosas y morales. Hoy es una práctica ordinaria. Otras actividades anteriormente toleradas son ahora rechazadas por razones fundamentales.
-
-La moral importa. Pero nuestras intuiciones sobre una transacción no nos dicen necesariamente cuáles serán las consecuencias de prohibirla.
-
-## Lo que ocurre cuando conocemos los beneficios
-
-Julio Elías, Nicola Lacetera y Mario Macis han estudiado experimentalmente cómo se forman estas actitudes.
-
-En un experimento publicado en American Economic Review en 2015, encontraron que informar a las personas sobre los beneficios potenciales de compensar a donantes de órganos aumentaba el apoyo a estas transacciones del 52 % al 71 %.
-
-El resultado es revelador. Muchas personas que inicialmente se oponen a una transacción reconsideran su posición cuando conocen lo que podría conseguirse mediante ella.
-
-Esto no demuestra que debamos permitir la compraventa de órganos. Pero sí que nuestras valoraciones morales pueden depender de cuánto sabemos sobre las consecuencias de nuestras decisiones.
-
-Y esas consecuencias pueden ser enormes.
-
-Gary Becker y Julio Elías estimaron en 2007 que un sistema de compensación por órganos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.
-
-Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
+Esto no demuestra que debamos permitir la compraventa de órganos. Demuestra algo más modesto y más incómodo: que nuestros juicios morales dependen, en parte, de cuánto sabemos sobre las consecuencias de nuestras decisiones. Y esas consecuencias pueden ser grandes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos generaría oferta suficiente para eliminar la lista de espera, con un aumento de alrededor del 12 % en el costo total de cada trasplante.[^7] Es una estimación teórica, no un resultado observado. Pero ilustra lo que solemos pasar por alto: cuando impedimos un intercambio, también renunciamos a lo que habría producido.
 
 En este caso, hablamos potencialmente de vidas.
 
-## Una posibilidad para quienes desean formar una familia
+## Un contrato que cambia de estatus al cruzar una frontera estatal
 
-Regresemos al problema de la reproducción.
+Regresemos a las familias. Para una pareja que ha agotado las alternativas médicas y descubre que un embarazo no es posible, o es demasiado riesgoso, la gestación subrogada es con frecuencia la última puerta. Del otro lado hay una mujer dispuesta a llevar ese embarazo y para quien una compensación puede cambiar considerablemente sus condiciones de vida. Esa es, en esencia, la transacción.
 
-Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto.
+En México, el país donde vivo, el estatus legal de ese acuerdo depende de la entidad federativa. Tabasco lo regula desde 1997 y Sinaloa desde 2013. En junio de 2021 la Suprema Corte resolvió una acción de inconstitucionalidad contra la legislación de Tabasco: invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva, y dejó claro que cada congreso local puede legislarla.[^8] La mayoría no lo ha hecho. El mismo contrato que una pareja firma en Villahermosa con respaldo legal no existe, jurídicamente, para una pareja en Monterrey.
 
-Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
+El resto de la región no es más coherente. Colombia y Argentina no tienen ley y resuelven caso por caso en los tribunales. Brasil y Uruguay permiten acuerdos solo si son gratuitos y entre familiares.[^9] Mientras tanto, donde la práctica es legal y compensada, crece: en Estados Unidos, los ciclos de transferencia embrionaria a una gestante pasaron de unos 3.400 en 2013 a unos 8.900 en 2021, según los Centros para el Control y la Prevención de Enfermedades (CDC).[^10] Son procedimientos, no nacimientos, pero muestran que la demanda existe y que, con reglas, se atiende.
 
-Imaginemos también a una mujer que está dispuesta a llevar adelante un embarazo para ayudar a esa familia y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
+La gestación subrogada despierta objeciones particularmente fuertes, y también aquí conviene decirlas completas. Nos preocupa que mujeres vulnerables sean explotadas, que la necesidad económica condicione su decisión, y que un embarazo termine tratado como un servicio cualquiera. Un embarazo implica riesgos físicos y emocionales reales, dura nueve meses, involucra a un futuro niño, y a menudo las partes llegan a él con poder muy desigual.
 
-Esta es, en esencia, la posibilidad que ofrece la gestación subrogada.
-
-La práctica ya existe y está creciendo. En Estados Unidos, los ciclos de transferencia embrionaria con gestantes pasaron de aproximadamente 3.500 en 2013 a 9.700 en 2022, según los CDC. Son procedimientos, no nacimientos, pero muestran una expansión considerable.
-
-En América Latina, las respuestas regulatorias son muy diferentes. México tiene reglas que varían entre entidades federativas. Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.
-
-La gestación subrogada despierta objeciones particularmente fuertes. Nos preocupa que las mujeres vulnerables sean explotadas, que la necesidad económica condicione sus decisiones o que el embarazo termine tratado como un servicio cualquiera.
-
-Son preguntas importantes. Un embarazo implica riesgos físicos y emocionales, y los acuerdos pueden involucrar relaciones de poder muy desiguales.
-
-Pero también hay algo que merece nuestra atención.
-
-Una prohibición no elimina necesariamente la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Puede impedir que lleguen a un acuerdo, o llevarlas a buscar alternativas en lugares con menos garantías.
-
-¿Estamos seguros de que esa es la mejor forma de protegerlas?
+Pero una prohibición no elimina la necesidad de los padres ni las circunstancias económicas de las posibles gestantes. Impide que lleguen a un acuerdo donde hay garantías, o las empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
 ## ¿A quién estamos protegiendo?
 
-Es perfectamente comprensible que muchas personas consideren problemático pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que trasciende cualquier valoración monetaria.
+Es comprensible que a muchas personas les parezca problemático pagar por un embarazo. La maternidad, el cuerpo y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a cuidadores por acompañar a nuestros padres, y ninguno de esos pagos implica que la salud, la educación o el afecto carezcan de valor moral.
 
-Pero pagar por un servicio no significa necesariamente que aquello que valoramos se reduzca a su precio.
+El embarazo tiene rasgos que lo distinguen de esas actividades: los riesgos médicos, la duración del compromiso, la presencia de un tercero que no firmó nada. Esas diferencias justifican regular con cuidado. No nos dicen, por sí solas, que prohibir la compensación sea la mejor respuesta. Para decidirlo necesitamos saber qué daños evitamos y qué oportunidades sacrificamos, y hoy no sabemos bien ninguna de las dos cosas: cuántas mujeres participarían y en qué condiciones, qué parte de la compensación les llega efectivamente, y qué instituciones protegerían mejor su salud y su autonomía.
 
-Pagamos a médicos por cuidar nuestra salud, a profesores por educar a nuestros hijos y a personas por cuidar a nuestros familiares. Ninguno de estos pagos implica que la salud, la educación o el afecto familiar carezcan de valor moral.
+Conviene ser honesto sobre el alcance del argumento. La gestación subrogada es poco frecuente y no va a resolver el problema demográfico de ninguna sociedad. El punto no es la tasa de fecundidad. El punto son las personas detrás de esa quinta parte de la encuesta del UNFPA: gente que quiere formar una familia y no puede, y a la que, en buena parte del continente, le hemos cerrado una de las pocas puertas que quedaban sin preguntarnos cuánto cuesta cerrarla.
 
-Naturalmente, el embarazo tiene características que lo distinguen de estas actividades. Los riesgos médicos, la duración del compromiso y la presencia de un futuro niño plantean problemas que no podemos ignorar.
+## Lo que dejamos de ganar
 
-Pero estas diferencias tampoco nos dicen, por sí solas, si prohibir la compensación es la mejor respuesta.
+La gestación subrogada es apenas un ejemplo de una discusión más amplia. Existen transacciones que rechazamos por razones morales, aunque no participemos en ellas. Algunas prohibiciones protegen derechos fundamentales y hay que defenderlas. Otras impiden oportunidades importantes sin conseguir los objetivos que las motivaron. Distinguirlas exige algo que casi nunca hacemos: contar los costos de la prohibición con el mismo cuidado con que contamos sus beneficios.
 
-Pensemos en las personas directamente involucradas. Para los futuros padres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante.
+No toda transacción voluntaria produce beneficios sociales, y no toda objeción moral carece de fundamento. Pero nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos, y la pregunta no es solamente qué intercambios nos parecen aceptables, sino qué ocurre cuando decidimos impedirlos. La economía no resuelve ese dilema. Sí puede medir lo que dejamos fuera de la discusión.
 
-Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando.
+Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y mi vida es mejor por eso. A las personas de las que habla este ensayo les prohibimos algo parecido, con razones que entiendo y con costos que casi nunca medimos.
 
-Y hay un elemento adicional. En sociedades que enfrentan una caída persistente de la fecundidad, permitir que más personas formen las familias que desean podría producir beneficios que trascienden a quienes participan directamente en estos acuerdos.
+Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos cuesta no tenerlos.
 
-No sabemos qué tan grandes serían esos beneficios. La gestación subrogada sigue siendo una práctica relativamente poco frecuente y está lejos de constituir una solución general al problema demográfico.
+[^1]: CEPAL (2025). *Observatorio Demográfico 2025: América Latina y el Caribe ante la baja fecundidad*. https://www.cepal.org/es/publicaciones/82932-observatorio-demografico-2025-america-latina-caribe-la-baja-fecundidad. La tasa regional está por debajo del nivel de reemplazo (2,1) desde 2015.
 
-Pero tampoco sabemos suficientemente cuánto bienestar perdemos al restringirla.
+[^2]: OCDE (2024). *Society at a Glance 2024*. https://doi.org/10.1787/918d8db3-en. En 2024 la tasa coreana repuntó levemente, a 0,75.
 
-## Lo que todavía no sabemos
+[^3]: OMS (2023). "1 in 6 people globally affected by infertility". https://www.who.int/news/item/04-04-2023-1-in-6-people-globally-affected-by-infertility. La prevalencia estimada a lo largo de la vida es de 17,5 %.
 
-¿Cuántas personas recurrirían a la gestación subrogada si tuvieran mayor acceso? ¿Cuántas mujeres estarían dispuestas a participar y bajo qué condiciones? ¿Qué parte de la compensación llega efectivamente a las gestantes? ¿Qué instituciones permitirían proteger mejor su salud y autonomía?
+[^4]: UNFPA (2025). *Estado de la Población Mundial 2025*. https://www.unfpa.org/swp2025. Encuesta en línea con YouGov a unas 14.000 personas en catorce países, entre ellos Brasil y México. Alrededor del 18 % de los adultos en edad reproductiva espera no poder tener el número de hijos que desea.
 
-También necesitamos comprender los costos de las alternativas regulatorias. Una prohibición puede prevenir ciertos abusos, pero también desplazar los acuerdos hacia lugares con menos supervisión. Permitir compensaciones puede ampliar las oportunidades, pero también crear incentivos y riesgos que requieren regulación.
+[^5]: Roth, A. E. (2007). "Repugnance as a Constraint on Markets". *Journal of Economic Perspectives*, 21(3), 37–58. https://doi.org/10.1257/jep.21.3.37
 
-No tenemos buenas estimaciones de las ganancias netas de bienestar que podrían producir estos intercambios en América Latina.
+[^6]: Elías, J. J., Lacetera, N. y Macis, M. (2015). "Sacred Values? The Effect of Information on Attitudes toward Payments for Human Organs". *American Economic Review*, 105(5), 361–365. https://doi.org/10.1257/aer.p20151035. El estudio completo es Elías, Lacetera y Macis (2019), "Paying for Kidneys? A Randomized Survey and Choice Experiment", *American Economic Review*, 109(8), 2855–2888. Julio Elías es economista argentino, de la Universidad del CEMA.
 
-Y no basta con observar cuánto pagan los padres o cuánto reciben las gestantes. El valor económico de una transacción depende de los beneficios que genera para las partes, de los costos que asumen y de sus consecuencias sobre terceros.
+[^7]: Becker, G. S. y Elías, J. J. (2007). "Introducing Incentives in the Market for Live and Cadaveric Organ Donations". *Journal of Economic Perspectives*, 21(3), 3–24. https://doi.org/10.1257/jep.21.3.3. Apareció en el mismo número que el artículo de Roth.
 
-Es precisamente ahí donde necesitamos más investigación.
+[^8]: Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 16/2016, resuelta por el Pleno el 7 de junio de 2021, contra disposiciones del Código Civil de Tabasco sobre gestación subrogada. https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2023-11/A.I.%2016-2016.pdf
 
-## Los mercados que nos negamos a tener
+[^9]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares hasta el segundo grado y por indicación médica. Brasil: resoluciones del Consejo Federal de Medicina, que permiten la práctica sin pago y entre familiares. Colombia y Argentina carecen de ley; la Corte Constitucional colombiana reconoció la práctica en la sentencia T-968 de 2009.
 
-La gestación subrogada es apenas un ejemplo de una discusión mucho más amplia.
-
-Existen transacciones que rechazamos por razones morales, incluso cuando no participamos en ellas. Algunas prohibiciones pueden ser esenciales para proteger derechos fundamentales. Otras podrían estar impidiendo oportunidades importantes sin conseguir los objetivos que las motivaron.
-
-Distinguir entre ambas situaciones no es sencillo.
-
-Tampoco podemos asumir que toda transacción voluntaria produce beneficios sociales o que toda objeción moral carece de fundamento.
-
-Pero hay algo que no deberíamos olvidar: nuestras decisiones colectivas tienen consecuencias para personas que quizá nunca conoceremos.
-
-En el caso de la reproducción, esas consecuencias pueden ser particularmente importantes. Estamos hablando de personas que desean formar una familia, de mujeres que podrían encontrar oportunidades económicas y de sociedades que enfrentan transformaciones demográficas profundas.
-
-La pregunta no es solamente qué intercambios consideramos moralmente aceptables. También es qué ocurre cuando decidimos impedirlos.
-
-La economía no puede resolver por sí sola estos dilemas. Pero sí puede ayudarnos a comprender sus consecuencias, identificar alternativas y medir los costos que con frecuencia dejamos fuera de la discusión.
-
-Antes de descartar las oportunidades que ofrece el intercambio, deberíamos comprender mejor lo que estamos dejando de ganar.
-
----
-
-## Referencias
-
-- Becker, G. S. y Elías, J. J. (2007). "Introducing Incentives in the Market for Live and Cadaveric Organ Donations" (https://doi.org/10.1257/jep.21.3.3). *Journal of Economic Perspectives*, 21(3), 3–24.
-- CEPAL (2025). "Observatorio Demográfico 2025" (https://www.cepal.org/es/publicaciones/82932-observatorio-demografico-2025-america-latina-caribe-la-baja-fecundidad).
-- Elías, J. J., Lacetera, N. y Macis, M. (2015). "Sacred Values? The Effect of Information on Attitudes toward Payments for Human Organs" (https://doi.org/10.1257/aer.p20151035). *American Economic Review*, 105(5), 361–365.
-- OCDE (2024). "Society at a Glance 2024" (https://doi.org/10.1787/918d8db3-en).
-- Roth, A. E. (2007). "Repugnance as a Constraint on Markets" (https://doi.org/10.1257/jep.21.3.37). *Journal of Economic Perspectives*, 21(3), 37–58.
-- UNFPA (2025). "Estado de la Población Mundial 2025" (https://www.unfpa.org/swp2025).
-- OMS (2023). "1 in 6 people globally affected by infertility" (https://www.who.int/en/news/item/04-04-2023-1-in-6-people-globally-affected-by-infertility).
-- CDC. "National ART Summary" (https://www.cdc.gov/art/php/national-summary/).
+[^10]: Centros para el Control y la Prevención de Enfermedades (CDC), Sistema Nacional de Vigilancia de Tecnologías de Reproducción Asistida. Ciclos de transferencia embrionaria con gestante: 3.432 en 2013; 8.862 en 2021, con un máximo de 9.195 en 2019. https://www.cdc.gov/art/php/national-summary/
