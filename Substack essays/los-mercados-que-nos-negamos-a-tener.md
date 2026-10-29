@@ -42,7 +42,7 @@ Muchas personas que inicialmente se oponen a una transacción reconsideran su po
 
 Y esas consecuencias pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
 
-En este caso, hablamos potencialmente de vidas.
+En este caso, hablamos de vidas.
 
 ## Una posibilidad para quienes desean formar una familia
 
@@ -50,25 +50,25 @@ Regresemos al problema de la reproducción. Imaginemos una pareja que lleva año
 
 Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada es la única alternativa: un hombre solo o una pareja de hombres no tienen otra forma de tener un hijo biológico.
 
-Imaginemos también a una mujer que está dispuesta a llevar adelante un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
+Imaginemos también a una mujer que está dispuesta a llevar a término un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
 
 Esta es, en esencia, la posibilidad que ofrece la gestación subrogada.
 
 La práctica ya existe a una escala que no es anecdótica. En Estados Unidos, los ciclos de transferencia embrionaria con gestantes pasaron de unos 3.400 en 2013 a unos 8.900 en 2021, según los Centros para el Control y la Prevención de Enfermedades (CDC).[^8] Son procedimientos, no nacimientos, pero muestran que la demanda existe y que, con reglas, se atiende.
 
-En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, el estatus del acuerdo depende del estado: Tabasco lo regula desde 1997 y Sinaloa desde 2013. En junio de 2021 la Suprema Corte, al resolver una acción de inconstitucionalidad contra la ley tabasqueña, invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva y dejó claro que cada congreso local puede legislarla.[^9] Es decir, la Corte ya dijo que el acceso no puede depender de cómo esté compuesta la familia. La mayoría de los congresos, sin embargo, no ha legislado nada. Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.[^10]
+En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, la legalidad del acuerdo depende de la entidad federativa: Tabasco lo regula desde 1997 y Sinaloa desde 2013.[^12] En junio de 2021 la Suprema Corte, al resolver una acción de inconstitucionalidad contra la ley tabasqueña, invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva y dejó claro que los congresos locales pueden regular sus aspectos civiles.[^9] Es decir, la Corte ya resolvió que el acceso no puede depender de cómo esté compuesta la familia. La mayoría de los congresos locales no ha legislado, y algunos, como Coahuila, Querétaro y San Luis Potosí, declaran el acuerdo inexistente o lo prohíben.[^13] Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.[^10]
 
 Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Ninguna es específica de la gestación subrogada.
 
 Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
 
-Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las potenciales gestantes. Impide que lleguen a un acuerdo con garantías, o los empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
+Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las posibles gestantes. Impide que lleguen a un acuerdo con garantías, o los empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
 ## ¿A quién estamos protegiendo?
 
-Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Ya pagamos por casi todo lo demás que rodea a un hijo: a la clínica de fertilidad, al obstetra, a la partera, a la niñera, a la guardería y al colegio. En buena parte del mundo se compensa a quienes donan óvulos y esperma, y durante siglos las familias que podían pagarla contrataban a una nodriza para amamantar a sus hijos. La gestación es el único eslabón de esa cadena al que le negamos un precio.
+Es comprensible que a muchas personas les incomode pagar por un embarazo. La maternidad, el cuerpo humano y la vida de un niño tienen un significado que ningún precio captura. Pero pagar por un servicio no reduce a su precio lo que valoramos. Ya pagamos por casi todo lo demás que rodea a un hijo: a la clínica de fertilidad, al obstetra, a la partera, a la niñera, a la guardería y al colegio. En Estados Unidos y en varios países europeos se compensa a quienes donan óvulos y esperma, y durante siglos las familias que podían pagarla contrataban a una nodriza para amamantar a sus hijos. La gestación es el eslabón de esa cadena al que casi todos los países le niegan un precio.
 
-Desde los años setenta, distintas corrientes feministas han propuesto remunerar el trabajo doméstico y de cuidados que las mujeres hacen gratis, y los institutos de estadística ya lo contabilizan. El INEGI estima que en 2023 ese trabajo equivalió al 26,3 % del PIB de México, y que las mujeres aportaron el 71,5 % de ese valor.[^11] Si aceptamos que cuidar, cocinar y criar tienen un valor económico que merece reconocerse y pagarse, cuesta explicar por qué gestar sería la excepción.
+Desde los años setenta, distintas corrientes feministas han propuesto remunerar el trabajo doméstico y de cuidados que las mujeres hacen gratis, y los institutos de estadística ya lo contabilizan. El INEGI, el instituto de estadística mexicano, estima que en 2023 ese trabajo equivalió al 26,3 % del PIB de México, y que las mujeres aportaron el 71,5 % de ese valor.[^11] Si aceptamos que cuidar, cocinar y criar tienen un valor económico que merece reconocerse y pagarse, cuesta explicar por qué gestar sería la excepción.[^14]
 
 Pensemos entonces en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando. La gestación subrogada no va a cambiar la tasa de fecundidad de ningún país; el argumento es sobre las personas que quieren formar una familia y no pueden.
 
@@ -84,9 +84,9 @@ Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arr
 
 ## Los mercados que nos negamos a tener
 
-Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy nos parece igual de repugnante pagar por un embarazo. Nadie hoy defendería esa prohibición. Aprendimos a regular el crédito.
+Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy nos parece igual de repugnante pagar por un embarazo. Hoy casi ningún país la mantiene: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces.
 
-Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que la gente cambia de opinión cuando conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
+Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que, al menos con los riñones, la opinión se mueve veinte puntos cuando la gente conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
 La discusión de fondo es filosófica. Qué cosas pueden comprarse y cuáles no, qué le debemos a quien quiere formar una familia y a quien está dispuesta a ayudarla, qué significa tratar a una persona con dignidad: son preguntas sobre la clase de sociedad que queremos ser, y la economía no las resuelve. Lo que la economía puede hacer es poner sobre la mesa lo que cada respuesta cuesta y quién lo paga, para que la decisión se tome sabiéndolo.
 
@@ -112,6 +112,12 @@ Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos 
 
 [^9]: Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 16/2016, resuelta por el Pleno el 7 de junio de 2021. https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2023-11/A.I.%2016-2016.pdf
 
-[^10]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares y por indicación médica. Brasil: resoluciones del Consejo Federal de Medicina, que permiten la práctica sin pago y entre familiares. Colombia: Corte Constitucional, sentencia T-968 de 2009. Argentina carece de ley y resuelve caso por caso.
+[^10]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares y por indicación médica. Brasil: Resolución 2.320/2022 del Consejo Federal de Medicina, que permite la práctica sin pago y entre familiares. Colombia: Corte Constitucional, sentencia T-968 de 2009. Argentina carece de ley y resuelve caso por caso.
 
 [^11]: INEGI (2024). *Cuenta Satélite del Trabajo No Remunerado de los Hogares de México 2023*, comunicado 680/24, 25 de noviembre de 2024. https://inegi.org.mx/contenidos/saladeprensa/boletines/2024/CSTNRHM/CSTNRHM2023.pdf
+
+[^12]: Tabasco: Código Civil, artículo 92 (1997), ampliado con un capítulo sobre gestación asistida y subrogada por el Decreto 265 de 2016. Sinaloa: Código Familiar, reforma de 2013. Según el Centro de Estudios Constitucionales de la SCJN, son las únicas dos regulaciones permisivas vigentes en el país: https://www.sitios.scjn.gob.mx/cec/sites/default/files/publication/documents/2022-03/8.%20Gestacio%CC%81n%20subrogada%20en%20Me%CC%81xico%20.pdf
+
+[^13]: Coahuila: Código Civil, artículo 491, que declara inexistente el contrato de maternidad subrogada. San Luis Potosí: Código Familiar, artículo 243, que la declara inexistente y sin efecto legal. Querétaro: Código Civil, artículo 400. La numeración varía entre versiones de los códigos; conviene verificarla en el periódico oficial de cada estado.
+
+[^14]: La campaña Wages for Housework, lanzada en 1972 por Selma James, Mariarosa Dalla Costa y Silvia Federici, exigía un salario por el trabajo doméstico. Buena parte de esa misma tradición feminista se opone a la gestación subrogada remunerada por considerarla una mercantilización del cuerpo. Sostener ambas posiciones exige explicar por qué el valor económico del trabajo de cuidado merece reconocimiento y pago en la cocina, pero no en la gestación.
