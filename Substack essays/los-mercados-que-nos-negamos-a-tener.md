@@ -84,7 +84,7 @@ Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arr
 
 ## Los mercados que nos negamos a tener
 
-Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy nos parece igual de repugnante pagar por un embarazo. Hoy casi ningún país la mantiene: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces.
+Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy casi ningún país mantiene esa prohibición: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces. Hoy nos parece igual de repugnante pagar por un embarazo.
 
 Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que, al menos con los riñones, la opinión se mueve veinte puntos cuando la gente conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
