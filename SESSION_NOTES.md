@@ -11,7 +11,7 @@
 - **Three essays exist:**
   - `my-favorite-coworker-complains-a-lot.md` — published; reference voice.
   - `who-can-stop-whom.md` — full rewrite 2026-05-15; awaiting review.
-  - `los-mercados-que-nos-negamos-a-tener.md` — Spanish essay on repugnant markets and surrogacy. **Published 2026-11-14**: https://edgarcastrom.substack.com/p/los-mercados-que-nos-negamos-a-tener. Repo file matches the published text (the post also has a Substack subscribe button). Footnote 12's state-code article numbers remain unverified. Review history in `los-mercados-REVIEW.md`.
+  - `los-mercados-que-nos-negamos-a-tener.md` — Spanish essay on repugnant markets and surrogacy. **Published 2026-11-14**: https://edgarcastrom.substack.com/p/los-mercados-que-nos-negamos-a-tener. Repo file matches the published text (the post also has a Substack subscribe button). Footnote 12 verified and corrected on the web version and here on 2026-11-14 (Coahuila art. 491 was repealed in 2015; see CHANGELOG Session 7); the email went out with the old text. Review history in `los-mercados-REVIEW.md`.
 - **Cross-conversation memory:** `~/.claude/projects/C--Users-L03574200-Documents-GitHub-substack-bot/memory/`
 
 ---

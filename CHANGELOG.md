@@ -13,16 +13,21 @@ Human-readable log of work on the Substack essays project.
 3. One wording fix, approved by Edgar before publishing, in the first paragraph of the last section. The 2026-10-29 edit had left "Hoy casi ningún país la mantiene" after the sentence about paying for a pregnancy, so "la" pointed at the wrong thing. Now: "Hoy casi ningún país mantiene esa prohibición: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces. Hoy nos parece igual de repugnante pagar por un embarazo." The repo file carries the same fix.
 4. Substack's publish dialog offered subscribe buttons; accepted, as in the earlier posts. One button sits after the second paragraph with Substack's default English caption. It exists only in the Substack post, not in the repo file.
 
+5. Verified footnote 12 against the state codes, at Edgar's request, and corrected the web version of the post and the repo file with his approval (the email of 2026-11-14 went out with the old text and cannot be changed).
+   - **Coahuila — was wrong.** Código Civil art. 491 reads "(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)" in the Congreso de Coahuila text (last reform 27 June 2023). The Ley para la Familia de Coahuila that replaced it (read with reforms through 30 January 2024) does not mention surrogacy; arts. 366–374 cover assisted reproduction only. Second source: Ruiz Balcázar and Valdés Martínez (2017), *Oñati Socio-legal Series* 7(1), 230–253.
+   - **San Luis Potosí — correct.** Código Familiar art. 243: "Es inexistente la maternidad substituta y por lo mismo no producirá efecto legal alguno." Read in the CNDH copy (reforms through 20 August 2020); SCJN AI 16/2016, para. 107, describes the same rule. Not checked against a text later than 2020.
+   - **Querétaro — number correct, scope narrower than the essay said.** Código Civil art. 400 binds only couples who adopt embryos; no other article of the code mentions surrogacy. Read in the Legislatura de Querétaro copy (version date not established); SCJN AI 16/2016, para. 108, describes it the same way.
+   - Body sentence now: "La mayoría de los congresos locales no ha legislado. San Luis Potosí declara inexistente el acuerdo, y Querétaro lo prohíbe a las parejas que adoptan embriones." Footnote 12 rewritten to match, with Coahuila's repeal stated.
+
 ### Current state at session end
 
-- Published text = repo file + the subscribe button.
-- Not verified: footnote 12's article numbers for Coahuila (art. 491), San Luis Potosí (art. 243) and Querétaro (art. 400). The footnote says so itself ("conviene verificarla") and went out that way.
+- Published web text = repo file + the subscribe button. The emailed version differs in the Coahuila sentence and footnote 12.
 - `who-can-stop-whom.md` (English) is still unpublished; its Spanish version "¿Quién puede detener a quién?" was published 2026-05-22.
 
 ## TO RESUME WORK (Session 8)
 
-1. If footnote 12 is checked against the state official gazettes, correct the Substack post (web version; the email cannot be changed) and this file together.
-2. Posting route that worked: Chrome signed in to Substack; create the draft through the editor's own draft endpoint with a ProseMirror body (`footnoteAnchor` / `footnote` nodes, level-4 headings), then publish from the editor's Continue dialog.
+1. Open point on footnote 12: San Luis Potosí art. 243 was read in a 2020 consolidation; confirm against the current Periódico Oficial text if the essay is reused.
+2. Posting route that worked: Chrome signed in to Substack; create the draft through the editor's own draft endpoint with a ProseMirror body (`footnoteAnchor` / `footnote` nodes, level-4 headings), then publish from the editor's Continue dialog. To correct a published post: update the draft body the same way, then use the editor's Update button (web only, no new email).
 
 ---
 
