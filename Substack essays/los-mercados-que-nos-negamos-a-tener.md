@@ -10,11 +10,11 @@ Esta tensión ayuda a explicar una transformación demográfica extraordinaria. 
 
 La caída de la fecundidad plantea un problema colectivo. Las nuevas generaciones contribuirán a sostener la actividad económica y los sistemas de pensiones, pero los costos de criarlas recaen principalmente sobre las familias. La decisión es individual; sus consecuencias trascienden a quienes la toman. Los gobiernos que han intentado revertir la caída lo han probado todo: subsidios, transferencias, beneficios tributarios, licencias parentales. Corea del Sur, que ha gastado más que casi cualquier otro país en incentivar la natalidad, llegó a registrar 0,72 hijos por mujer en 2023.[^2]
 
-Quizás no debería sorprendernos. Tener hijos no es solamente un problema de dinero. Es renunciar a tiempo, a autonomía y a oportunidades que hoy valoramos más que nuestros padres, y ninguna transferencia resuelve por sí sola esa tensión. Además, nuestra biología no se ha adaptado a nuestras nuevas aspiraciones. Postergamos la maternidad por buenas razones, pero la capacidad reproductiva sigue teniendo límites, y muchas personas descubren que, cuando finalmente desean tener hijos, conseguirlo es mucho más difícil de lo que esperaban.
+Quizás no debería sorprendernos. Tener hijos no es solamente un problema de dinero. Es renunciar a tiempo, a autonomía y a oportunidades que hoy valoramos más de lo que las valoraban nuestros padres, y ninguna transferencia resuelve por sí sola esa tensión. Además, nuestra biología no se ha adaptado a nuestras nuevas aspiraciones. Postergamos la maternidad por buenas razones, pero la capacidad reproductiva sigue teniendo límites, y muchas personas descubren que, cuando finalmente desean tener hijos, conseguirlo es mucho más difícil de lo que esperaban.
 
 Según la Organización Mundial de la Salud, una de cada seis personas experimenta infertilidad en algún momento de su vida.[^3] Una encuesta del Fondo de Población de las Naciones Unidas (UNFPA) en catorce países encontró en 2025 que cerca de una quinta parte de los adultos consultados considera que no podrá tener el número de hijos que desea.[^4] El problema no es simplemente que las personas quieran tener menos hijos. También existen restricciones que les impiden formar las familias que desean.
 
-Algunas de esas restricciones son biológicas o económicas. Otras las pusimos nosotros.
+Algunas de esas restricciones son biológicas o económicas. Otras las pusimos nosotros, al limitar las formas en que podemos ayudarnos a tener hijos.
 
 ## La posibilidad de ayudarnos unos a otros
 
@@ -22,7 +22,7 @@ Soy un pésimo agricultor. Probablemente sería un constructor todavía peor. Si
 
 Parece una observación trivial, pero hay algo extraordinario detrás. Lo que una persona puede conseguir en la vida no depende solo de sus recursos y habilidades, sino de con quién puede intercambiar. El intercambio es la forma más antigua que tenemos de ayudarnos unos a otros, y nos permite superar limitaciones que individualmente serían insalvables.
 
-Pero hay intercambios que, como sociedad, decidimos no permitir, aunque las dos partes quieran realizarlos. A veces tenemos excelentes razones. Otras veces prohibimos primero y nunca llegamos a contar lo que cuesta la prohibición, ni a quién.
+Pero hay intercambios que, como sociedad, decidimos no permitir, aunque las dos partes quieran realizarlos. A veces tenemos excelentes razones. Otras veces prohibimos primero y nunca llegamos a calcular cuánto cuesta la prohibición ni quién paga ese costo.
 
 ## Cuando el intercambio nos incomoda
 
@@ -30,7 +30,7 @@ En 2007, [Alvin Roth](https://doi.org/10.1257/jep.21.3.37) publicó un artículo
 
 Pensemos en alguien que necesita desesperadamente un riñón. Otra persona podría estar dispuesta a proporcionarlo a cambio de una compensación. Sin embargo, en la mayoría de los países esta posibilidad está prohibida. Las razones son comprensibles. Nos preocupa que las personas más pobres terminen vendiendo sus órganos por necesidad, que aparezcan abusos o que el cuerpo humano se convierta en una mercancía. No son preocupaciones menores.
 
-Pero consideremos también a quien lleva años esperando un trasplante. Para esa persona, alguien descartó una alternativa en su nombre. Aquí aparece una dificultad que no siempre reconocemos: las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas. Y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
+Pero consideremos también a quien lleva años esperando un trasplante. La prohibición descarta una alternativa para esa persona sin que ella pueda decidir. Aquí aparece una dificultad que no siempre reconocemos: las restricciones que establecemos para proteger ciertos valores también tienen consecuencias sobre la vida de otras personas. Y quienes más sienten esas consecuencias no siempre son quienes defienden las prohibiciones.
 
 Roth señala, además, que lo que consideramos moralmente aceptable cambia con el tiempo. Cobrar intereses por préstamos fue durante siglos objeto de profundas objeciones religiosas y morales. Hoy es una práctica ordinaria. Otras actividades anteriormente toleradas son ahora rechazadas por razones fundamentales. La moral importa. Pero nuestras intuiciones sobre una transacción no nos dicen cuáles serán las consecuencias de prohibirla.
 
@@ -40,15 +40,15 @@ Roth señala, además, que lo que consideramos moralmente aceptable cambia con e
 
 Muchas personas que inicialmente se oponen a una transacción reconsideran su posición cuando conocen lo que podría conseguirse mediante ella. Esto no demuestra que debamos permitir la compraventa de órganos. Pero sí que nuestras valoraciones morales pueden depender de cuánto sabemos sobre las consecuencias de nuestras decisiones.
 
-Y esas consecuencias pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Una lista de espera más corta beneficia a todos los que están en ella, empezando por quienes no pueden costear un trasplante en el extranjero.[^8] Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
+Los beneficios a los que renunciamos pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Una lista de espera más corta beneficia a todos los que están en ella, empezando por quienes no pueden costear un trasplante en el extranjero.[^8] La estimación de Becker y Elías es teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
 
 En este caso, hablamos de vidas.
 
 ## Una posibilidad para quienes desean formar una familia
 
-Regresemos al problema de la reproducción. Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto. Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
+Regresemos al problema de quienes desean tener hijos y no pueden. Imaginemos una pareja que lleva años intentando tener un hijo. Ha agotado distintas alternativas médicas y descubre que un embarazo no es posible o representa un riesgo demasiado alto. Para esa pareja, poder tener un hijo podría ser una de las experiencias más valiosas de su vida.
 
-Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura. Para varias de esas familias la gestación subrogada es la única alternativa: un hombre solo o una pareja de hombres no tienen otra forma de tener un hijo biológico.
+Conviene aclarar qué entiendo por familia, porque la palabra arrastra una imagen que ya no describe a mucha gente. Una familia puede ser una pareja heterosexual, dos hombres, dos mujeres, una persona sola, o un arreglo más amplio que ninguna de esas etiquetas captura.
 
 Imaginemos también a una mujer que está dispuesta a llevar a término un embarazo para ayudar a una de esas familias y que considera que una compensación económica podría mejorar considerablemente sus propias condiciones de vida.
 
@@ -56,13 +56,15 @@ Esta es, en esencia, la posibilidad que ofrece la gestación subrogada.
 
 La práctica ya existe a una escala que no es anecdótica. En Estados Unidos, los ciclos de transferencia embrionaria con gestantes pasaron de unos 3.400 en 2013 a unos 8.900 en 2021, según los Centros para el Control y la Prevención de Enfermedades (CDC).[^9] Son procedimientos, no nacimientos, pero muestran que la demanda existe y que, con reglas, se atiende.
 
-En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, la legalidad del acuerdo depende de la entidad federativa: Tabasco lo regula desde 1997 y Sinaloa desde 2013.[^10] En junio de 2021 la Suprema Corte, al resolver una acción de inconstitucionalidad contra la ley tabasqueña, invalidó las disposiciones que excluían a parejas del mismo sexo y a personas solteras, reconoció la práctica como parte de la autonomía reproductiva y dejó claro que los congresos locales pueden regular sus aspectos civiles.[^11] Es decir, la Corte ya resolvió que el acceso no puede depender de cómo esté compuesta la familia. La mayoría de los congresos locales no ha legislado. San Luis Potosí declara inexistente el acuerdo, y Querétaro lo prohíbe a las parejas que adoptan embriones.[^12] Colombia y Argentina enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay permiten determinados acuerdos bajo condiciones restrictivas.[^13]
+En América Latina, las respuestas regulatorias son muy diferentes. En México, donde vivo, Tabasco y Sinaloa cuentan con regulación específica, pero en la mayor parte del país falta un marco claro.[^10] Las resoluciones de la Suprema Corte no han llenado ese vacío.[^11] Las prohibiciones expresas son excepcionales; el problema más extendido es la incertidumbre sobre las reglas del acuerdo y sus efectos jurídicos.[^12] Esa incertidumbre hace que el proceso sea más costoso y menos accesible de lo que podría ser. Colombia y Argentina también enfrentan importantes vacíos legislativos, mientras que Brasil y Uruguay solo permiten la gestación subrogada altruista, sin remuneración para la gestante y bajo condiciones restrictivas.[^13]
 
-Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Ninguna es específica de la gestación subrogada.
+Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Estas preocupaciones también aparecen en otros trabajos remunerados.
 
-Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Quien afirma que una mujer pobre no puede consentir le quita la mayoría de edad por decreto, desde una posición en la que nunca tendrá que tomar esa decisión. Ella sabe qué opciones tiene. El que opina desde la comodidad, no. Que el embarazo tenga riesgos físicos y emocionales es cierto.[^14] También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
+Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Quien afirma que una mujer pobre no puede consentir le quita la mayoría de edad por decreto, desde una posición en la que nunca tendrá que tomar esa decisión. Ella sabe qué opciones tiene. El que opina desde la comodidad, no.
 
-Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las posibles gestantes. Impide que lleguen a un acuerdo con garantías, o los empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
+Que el embarazo tenga riesgos físicos y emocionales es cierto.[^14] También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
+
+Ni la prohibición ni la falta de reglas claras eliminan el deseo de tener hijos de quienes recurren a esta práctica o las circunstancias económicas de las posibles gestantes. Sí pueden dificultar que lleguen a un acuerdo con garantías. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
 ## ¿A quién estamos protegiendo?
 
@@ -72,25 +74,27 @@ Desde los años setenta, distintas corrientes feministas han propuesto remunerar
 
 Pensemos entonces en las personas directamente involucradas. Para quienes quieren ser padres o madres, el acuerdo puede representar la posibilidad de formar una familia. Para una gestante, puede representar una oportunidad económica importante. Si consideramos que la transacción debe prohibirse, necesitamos comprender qué daños estamos evitando y qué oportunidades estamos sacrificando. La gestación subrogada no va a cambiar la tasa de fecundidad de ningún país; el argumento es sobre las personas que quieren formar una familia y no pueden.
 
-## Lo que la prohibición produce
+## Lo que cuesta no tener reglas claras
 
-En buena parte de América Latina la gestación subrogada ya ocurre, con ley o sin ella. Donde no hay reglas hay agencias que operan en el vacío legal, contratos que ningún juez está obligado a hacer cumplir, gestantes sin seguro ni seguimiento médico garantizado, y niños cuya filiación se decide caso por caso en un tribunal. Las familias con dinero viajan a donde la práctica es legal. Las que no lo tienen se quedan con las opciones que la ley dejó: ninguna, o la informal.
+En buena parte de América Latina la gestación subrogada ya ocurre, con ley o sin ella. La falta de un marco específico no impide que se celebren acuerdos formales, con contratos elaborados por abogados. Pero esa asesoría cuesta, y ni siquiera un contrato cuidadosamente redactado elimina toda la incertidumbre jurídica, incluida la que puede rodear el reconocimiento de la filiación. Algunas familias pueden pagar esos costos o viajar a otro país. Para otras, el costo de la vía formal es una barrera más, que puede favorecer los acuerdos informales. Estos también existen, y pueden dejar a las gestantes sin seguro ni seguimiento médico garantizado, y a ambas partes sin claridad sobre sus obligaciones o sobre qué ocurrirá si surge un conflicto.
 
-Eso es lo que compra la prohibición. Conserva los acuerdos y les quita las garantías.
+La falta de reglas claras no elimina los acuerdos. Los encarece y deja riesgos que un contrato privado no alcanza a resolver.
 
-Un mercado regulado tendría que resolver preguntas que hoy nadie responde: quién puede ser gestante y con qué controles de salud, qué parte de la compensación le llega a ella y qué parte se queda en intermediarios, cómo se fija la filiación desde el primer día, qué pasa si alguna de las partes cambia de opinión. Son preguntas difíciles. Son también las preguntas de cualquier contrato en el que una parte asume riesgos por cuenta de otra, y las hemos resuelto antes para la medicina, la minería y el trabajo doméstico.
+La principal ventaja de un mercado regulado es que reduce los riesgos y los costos de llegar a un acuerdo y hacerlo cumplir. Con reglas claras, las familias y las gestantes no tendrían que resolver por su cuenta, contrato por contrato, cuestiones que podrían estar previstas de antemano: las obligaciones de cada parte, las garantías médicas y el reconocimiento de la filiación. Eso no elimina todos los riesgos, pero hace el proceso más seguro, menos costoso y más accesible.
 
-Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arreglo actual. Las familias que dejan de formarse, las mujeres que dejan de recibir un ingreso que buscaban, los niños que nacen en un limbo jurídico. Son costos difíciles de estimar, y por eso casi nunca aparecen cuando se discute la prohibición.
+Un mercado regulado tendría que dar respuestas claras a preguntas que hoy recaen sobre las partes, sus abogados y los tribunales: quién puede ser gestante y con qué controles de salud, qué parte de la compensación le llega a ella y qué parte se queda en intermediarios, cómo se fija la filiación desde el primer día, qué pasa si alguna de las partes cambia de opinión. Son preguntas difíciles. Son también las preguntas de cualquier contrato en el que una parte asume riesgos por cuenta de otra, y las hemos resuelto antes para la medicina, la minería y el trabajo doméstico.
+
+Y hay un costo del que casi nunca se habla: el bienestar que perdemos con el arreglo actual. Las familias que dejan de formarse, las mujeres que dejan de recibir un ingreso que buscaban, los niños que nacen en un limbo jurídico. Son costos difíciles de estimar, y por eso casi nunca aparecen cuando se discute si permitir esta práctica y cómo regularla.
 
 ## Los mercados que nos negamos a tener
 
 Roth recuerda que durante siglos cobrar intereses fue una transacción repugnante, y que quienes la prohibían creían, entre otras cosas, proteger a los pobres de los usureros. Hoy casi ningún país mantiene esa prohibición: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces. Hoy nos parece igual de repugnante pagar por un embarazo.
 
-Puede que a nuestros nietos les pase lo mismo con la gestación subrogada, y puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que, al menos con los riñones, la opinión se mueve veinte puntos cuando la gente conoce lo que cuesta prohibir. Rara vez se lo contamos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
+Puede que nuestros nietos vean la gestación subrogada como hoy vemos el crédito: un intercambio que requiere reglas, pero que no debería prohibirse. Puede que no. Lo que sí sabemos, por el experimento de Elías, Lacetera y Macis, es que, al menos con los riñones, la opinión se mueve veinte puntos cuando la gente conoce lo que cuesta prohibir. Rara vez explicamos esos costos. La gestación subrogada es un caso; los riñones de los que hablé antes son otro, y hay más. En todos, la discusión pública se agota en si la transacción nos incomoda, y casi nunca llega a quién paga por impedirla.
 
 La discusión de fondo es filosófica. Qué cosas pueden comprarse y cuáles no, qué le debemos a quien quiere formar una familia y a quien está dispuesta a ayudarla, qué significa tratar a una persona con dignidad: son preguntas sobre la clase de sociedad que queremos ser, y la economía no las resuelve. Lo que la economía puede hacer es poner sobre la mesa lo que cada respuesta cuesta y quién lo paga, para que la decisión se tome sabiéndolo.
 
-Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y a nadie se le ocurriría llamar a eso explotación. A las personas de las que habla este ensayo les prohibimos algo parecido.
+Sigo siendo un pésimo agricultor. Nadie me prohíbe comprarle mis alimentos a quien sabe producirlos, y a nadie se le ocurriría llamar a eso explotación. A las personas de las que habla este ensayo les prohibimos algo parecido o se lo hacemos mucho más difícil de lo necesario.
 
 Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos cuesta no tenerlos.
 

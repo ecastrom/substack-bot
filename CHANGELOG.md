@@ -19,9 +19,11 @@ Human-readable log of work on the Substack essays project.
    - **Querétaro — number correct, scope narrower than the essay said.** Código Civil art. 400 binds only couples who adopt embryos; no other article of the code mentions surrogacy. Read in the Legislatura de Querétaro copy (version date not established); SCJN AI 16/2016, para. 108, describes it the same way.
    - Body sentence now: "La mayoría de los congresos locales no ha legislado. San Luis Potosí declara inexistente el acuerdo, y Querétaro lo prohíbe a las parejas que adoptan embriones." Footnote 12 rewritten to match, with Coahuila's repeal stated.
 
+6. Edgar revised the essay in the repo file (10 passages, footnotes unchanged) and asked for the post to be updated. Main changes: the Mexico paragraph now stresses legal uncertainty over outright prohibition; the section "Lo que la prohibición produce" became "Lo que cuesta no tener reglas claras" and was rewritten around the cost of missing rules; the sentence on surrogacy as the only route for single men and male couples was removed; the risk paragraph was split in two. Applied to the web version of the post; the result was checked against the repo file by checksum before and after saving. No new email was sent.
+
 ### Current state at session end
 
-- Published web text = repo file + the subscribe button. The emailed version differs in the Coahuila sentence and footnote 12.
+- Published web text = repo file + the subscribe button. The emailed version (2026-11-14) is the earlier text: it predates the footnote 12 correction and Edgar's revision.
 - `who-can-stop-whom.md` (English) is still unpublished; its Spanish version "¿Quién puede detener a quién?" was published 2026-05-22.
 
 ## TO RESUME WORK (Session 8)
