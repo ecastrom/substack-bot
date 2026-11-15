@@ -23,7 +23,7 @@ Human-readable log of work on the Substack essays project.
 
 ### Current state at session end
 
-- Published web text = repo file + the subscribe button. The emailed version (2026-11-14) is the earlier text: it predates the footnote 12 correction and Edgar's revision.
+- Published web text = repo file + the subscribe button + a header photo (adult hand holding a newborn's hand, by Aditya Romansa on Unsplash, from Substack's stock library; also the social preview). Added 2026-11-15 at Edgar's request; he rejected a first option for its black background. The photo exists only in the Substack post. The emailed version (2026-11-14) is the earlier text: it predates the footnote 12 correction and Edgar's revision.
 - `who-can-stop-whom.md` (English) is still unpublished; its Spanish version "¿Quién puede detener a quién?" was published 2026-05-22.
 
 ## TO RESUME WORK (Session 8)
