@@ -40,7 +40,7 @@ Roth señala, además, que lo que consideramos moralmente aceptable cambia con e
 
 Muchas personas que inicialmente se oponen a una transacción reconsideran su posición cuando conocen lo que podría conseguirse mediante ella. Esto no demuestra que debamos permitir la compraventa de órganos. Pero sí que nuestras valoraciones morales pueden depender de cuánto sabemos sobre las consecuencias de nuestras decisiones.
 
-Y esas consecuencias pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
+Y esas consecuencias pueden ser enormes. [Gary Becker y Julio Elías](https://doi.org/10.1257/jep.21.3.3) estimaron en 2007 que un sistema de compensación a donantes de riñón en Estados Unidos podría generar suficiente oferta para eliminar las listas de espera, con un aumento relativamente pequeño del costo total de los trasplantes, de aproximadamente un 12 %.[^7] Una lista de espera más corta beneficia a todos los que están en ella, empezando por quienes no pueden costear un trasplante en el extranjero.[^15] Es una estimación teórica, no una experiencia observada. Pero ilustra algo que solemos pasar por alto: cuando impedimos ciertos intercambios, también renunciamos a los beneficios que podrían generar.
 
 En este caso, hablamos de vidas.
 
@@ -60,7 +60,7 @@ En América Latina, las respuestas regulatorias son muy diferentes. En México, 
 
 Las objeciones son conocidas: que las mujeres pobres serán explotadas, que la necesidad económica condiciona sus decisiones, que el embarazo quedará tratado como un servicio cualquiera. Ninguna es específica de la gestación subrogada.
 
-Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Que el embarazo tenga riesgos físicos es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
+Que la necesidad económica condicione las decisiones es la descripción de casi cualquier empleo. La mayoría de la gente trabaja porque necesita el ingreso, y no concluimos de ahí que trabajar sea explotación. Sostener que una mujer pobre no puede consentir un acuerdo así es negarle la capacidad de decidir que reconocemos a cualquier otro adulto, y suele decirlo gente que nunca ha tenido que tomar esa decisión. Que el embarazo tenga riesgos físicos y emocionales es cierto. También los tiene subirse a un poste de luz, bajar a una mina o pasar meses en una plataforma petrolera, y a nadie se le ocurre prohibir esos oficios: les pagamos más, exigimos seguros y regulamos las condiciones.
 
 Una prohibición, además, no elimina la necesidad de los padres ni las circunstancias económicas de las posibles gestantes. Impide que lleguen a un acuerdo con garantías, o los empuja a buscarlo donde no las hay. ¿Estamos seguros de que esa es la mejor forma de protegerlas?
 
@@ -112,7 +112,7 @@ Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos 
 
 [^9]: Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 16/2016, resuelta por el Pleno el 7 de junio de 2021. https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2023-11/A.I.%2016-2016.pdf
 
-[^10]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares y por indicación médica. Brasil: Resolución 2.320/2022 del Consejo Federal de Medicina, que permite la práctica sin pago y entre familiares. Colombia: Corte Constitucional, sentencia T-968 de 2009. Argentina carece de ley y resuelve caso por caso.
+[^10]: Uruguay: Ley 19.167 de 2013, que admite la gestación subrogada solo de forma gratuita, entre familiares y por indicación médica. Brasil: Resolución 2.320/2022 del Consejo Federal de Medicina, que permite la práctica sin pago y entre familiares. Colombia: Corte Constitucional, sentencia T-968 de 2009. Argentina carece de ley y resuelve caso por caso. Los regímenes exclusivamente altruistas conviven con listas de espera: ocurre con los órganos en casi todos los países y con la gestación subrogada donde solo se permite entre familiares. El altruismo existe, pero no alcanza para cubrir la escasez.
 
 [^11]: INEGI (2024). *Cuenta Satélite del Trabajo No Remunerado de los Hogares de México 2023*, comunicado 680/24, 25 de noviembre de 2024. https://inegi.org.mx/contenidos/saladeprensa/boletines/2024/CSTNRHM/CSTNRHM2023.pdf
 
@@ -121,3 +121,5 @@ Antes de decidir qué mercados no queremos tener, deberíamos saber cuánto nos 
 [^13]: Coahuila: Código Civil, artículo 491, que declara inexistente el contrato de maternidad subrogada. San Luis Potosí: Código Familiar, artículo 243, que la declara inexistente y sin efecto legal. Querétaro: Código Civil, artículo 400. La numeración varía entre versiones de los códigos; conviene verificarla en el periódico oficial de cada estado.
 
 [^14]: La campaña Wages for Housework, lanzada en 1972 por Selma James, Mariarosa Dalla Costa y Silvia Federici, exigía un salario por el trabajo doméstico. Buena parte de esa misma tradición feminista se opone a la gestación subrogada remunerada por considerarla una mercantilización del cuerpo. Sostener ambas posiciones exige explicar por qué el valor económico del trabajo de cuidado merece reconocimiento y pago en la cocina, pero no en la gestación.
+
+[^15]: Una objeción frecuente es que un mercado favorecería a quienes pueden pagar. En la propuesta de Becker y Elías el comprador es el sistema de salud, no el paciente, y la asignación sigue criterios médicos. El efecto distributivo relevante es el de la lista: hoy quien tiene dinero viaja a operarse; quien no, espera.
