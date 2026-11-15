@@ -1,15 +1,17 @@
 # SESSION_NOTES.md — Substack essays
 
-**Last update:** 2026-05-15 (full structural rewrite around the separation-of-powers thesis)
+**Last update:** 2026-11-14 (surrogacy essay published on Substack)
 
 ## Project state
 
 - **Active work:** drafting and reviewing Substack essays.
 - **Substack-bot codebase:** ABANDONED.
 - **Drafts location:** `Substack essays/`
-- **Two essays exist:**
+- **Style guide:** `Substack essays/STYLE_GUIDE.md` (2026-10-29), derived from the published posts; use it for drafting and review.
+- **Three essays exist:**
   - `my-favorite-coworker-complains-a-lot.md` — published; reference voice.
-  - `who-can-stop-whom.md` — current essay. Full rewrite 2026-05-15.
+  - `who-can-stop-whom.md` — full rewrite 2026-05-15; awaiting review.
+  - `los-mercados-que-nos-negamos-a-tener.md` — Spanish essay on repugnant markets and surrogacy. **Published 2026-11-14**: https://edgarcastrom.substack.com/p/los-mercados-que-nos-negamos-a-tener. Repo file matches the published text (the post also has a Substack subscribe button). Footnote 12's state-code article numbers remain unverified. Review history in `los-mercados-REVIEW.md`.
 - **Cross-conversation memory:** `~/.claude/projects/C--Users-L03574200-Documents-GitHub-substack-bot/memory/`
 
 ---

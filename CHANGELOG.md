@@ -4,6 +4,41 @@ Human-readable log of work on the Substack essays project.
 
 ---
 
+## Session 7 — 2026-11-14
+
+### Essay: "Los mercados que nos negamos a tener" — PUBLISHED
+
+1. Published on Substack at Edgar's request (audience: everyone; sent by email and app): https://edgarcastrom.substack.com/p/los-mercados-que-nos-negamos-a-tener (post id 224989581, published 2026-11-15 04:13 UTC).
+2. Posted from the repo file as of commit 5f2b02b, converted to Substack format: 8 section headings, 16 native footnotes, 3 inline links on author names, bare URLs in footnotes linked. Text checked byte for byte against the repo file before the draft was created.
+3. One wording fix, approved by Edgar before publishing, in the first paragraph of the last section. The 2026-10-29 edit had left "Hoy casi ningún país la mantiene" after the sentence about paying for a pregnancy, so "la" pointed at the wrong thing. Now: "Hoy casi ningún país mantiene esa prohibición: en lugar de prohibir el crédito, le pusimos topes, contratos y jueces. Hoy nos parece igual de repugnante pagar por un embarazo." The repo file carries the same fix.
+4. Substack's publish dialog offered subscribe buttons; accepted, as in the earlier posts. One button sits after the second paragraph with Substack's default English caption. It exists only in the Substack post, not in the repo file.
+
+### Current state at session end
+
+- Published text = repo file + the subscribe button.
+- Not verified: footnote 12's article numbers for Coahuila (art. 491), San Luis Potosí (art. 243) and Querétaro (art. 400). The footnote says so itself ("conviene verificarla") and went out that way.
+- `who-can-stop-whom.md` (English) is still unpublished; its Spanish version "¿Quién puede detener a quién?" was published 2026-05-22.
+
+## TO RESUME WORK (Session 8)
+
+1. If footnote 12 is checked against the state official gazettes, correct the Substack post (web version; the email cannot be changed) and this file together.
+2. Posting route that worked: Chrome signed in to Substack; create the draft through the editor's own draft endpoint with a ProseMirror body (`footnoteAnchor` / `footnote` nodes, level-4 headings), then publish from the editor's Continue dialog.
+
+---
+
+## Session 6 — 2026-10-29
+
+### Essay: "Los mercados que nos negamos a tener" (file: `Substack essays/los-mercados-que-nos-negamos-a-tener.md`)
+
+1. Saved Edgar's Spanish draft on repugnant markets and surrogacy (~1,900 words) as a new essay file.
+2. Reviewed it against the repo's working style guide (edgar_profile.md voice section, `_VOICE` block in content_generator.py, and the two reference essays). Review with proposed improvements saved as `Substack essays/los-mercados-REVIEW.md`.
+3. Fact-checked the numeric claims. Two corrections: Elías-Lacetera-Macis support rises to 72 %, not 71 %; the CDC gestational-carrier series does not support "9.700 en 2022" (CDC: 3,432 in 2013 → 8,862 in 2021; SART: 9,225 in 2022). OECD reference listed but never cited.
+4. No edits applied to the essay body; all proposals are in the review file for Edgar's decision.
+5. Applied the review at Edgar's request: rewrote the essay to the style guide (thesis subtitle; farmer anchor opens and closes; demographic on-ramp cut from 10 paragraphs to 3 and reframed around unmet desired fertility; hypothetical couple replaced by the Mexico case, SCJN AI 16/2016; research-questions section folded into one paragraph; 13 one-liners cut to 2; footnotes and inline links replace the reference list; numbers corrected). 1,879 → 1,700 words, 72 → 26 paragraphs. Original draft preserved in git history.
+6. Wrote `Substack essays/STYLE_GUIDE.md`: a measured style guide derived from the three published Substack posts and the repo drafts (shape, opening, subtitle, argument moves, evidence rules, voice, rhythm metrics, signature devices, language and typography, Substack citation mechanics, cut-list, pre-publication checklist).
+
+---
+
 ## Session 2 — 2026-05-07
 
 ### Essay: "The Loser's Power" (file: `Substack essays/who-can-stop-whom.md`)
